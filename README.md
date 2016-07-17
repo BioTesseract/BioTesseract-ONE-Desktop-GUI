@@ -1,4 +1,4 @@
-<div align="left" style="position:relative; float:right;">
+<div align="right" style="position:relative; float:right;">
   <img src="http://biotesseract.com/images/BioTesseract_logo_flat.png" width="250px"/>
 </div>
 
