@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="your_relative_path_here" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
+
 # About BioTesseract™ 
 
 The BioTesseract™ is an international academic initiative established as a response to still increasing demand for dedicated scripts and tools in computational biology and chemistry. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
