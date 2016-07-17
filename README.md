@@ -1,5 +1,5 @@
-<div style="position:relative; float:left;">
-  <img src="http://biotesseract.com/images/BioTesseract_logo_flat.png"/>
+<div style="position:relative; float:right;">
+  <img src="http://biotesseract.com/images/BioTesseract_logo_flat.png" width="100px"/>
 </div>
 
 # About BioTesseract™ 
