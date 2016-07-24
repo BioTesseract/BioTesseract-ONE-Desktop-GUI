@@ -1,5 +1,3 @@
-
-
 # About BioTesseract™  <img src="https://cloud.githubusercontent.com/assets/17867916/17073889/52aeca5e-5075-11e6-92a2-34884bd72d8c.png" width="30%" align="right"/>
 
 </br>
