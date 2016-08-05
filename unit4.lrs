@@ -1,0 +1,72 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TForm2','FORMDATA',[
+  'TPF0'#6'TForm2'#5'Form2'#4'Left'#3#198#1#6'Height'#3#17#1#3'Top'#3'S'#1#5'Wi'
+  +'dth'#3#189#3#20'HorzScrollBar.Smooth'#9#7'Caption'#6#17'Connections table'
+  +#12'ClientHeight'#3#17#1#11'ClientWidth'#3#189#3#5'Color'#7#9'cl3DLight'#8'O'
+  +'nCreate'#7#10'FormCreate'#6'OnShow'#7#8'FormShow'#10'LCLVersion'#6#7'1.4.2.'
+  +'0'#0#8'TToolBar'#8'ToolBar1'#4'Left'#2#0#6'Height'#2#30#3'Top'#2#0#5'Width'
+  +#3#189#3#12'ButtonHeight'#2#25#11'ButtonWidth'#2#25#7'Caption'#6#8'ToolBar1'
+  +#9'EdgeInner'#7#6'esNone'#9'EdgeOuter'#7#6'esNone'#6'Images'#7#19'MainForm.I'
+  +'mageList1'#6'Indent'#2#3#8'TabOrder'#2#0#0#11'TToolButton'#11'ToolButton1'#4
+  +'Left'#2#28#3'Top'#2#0#7'Caption'#6#11'ToolButton1'#10'ImageIndex'#2#19#7'On'
+  +'Click'#7#16'ToolButton1Click'#0#0#11'TToolButton'#11'ToolButton2'#4'Left'#2
+  +'5'#3'Top'#2#0#7'Caption'#6#11'ToolButton2'#10'ImageIndex'#2#20#7'OnClick'#7
+  +#16'ToolButton2Click'#0#0#11'TToolButton'#11'ToolButton3'#4'Left'#2'N'#3'Top'
+  +#2#0#7'Caption'#6#11'ToolButton3'#10'ImageIndex'#2#1#7'OnClick'#7#16'ToolBut'
+  +'ton3Click'#0#0#11'TToolButton'#11'ToolButton4'#4'Left'#2#3#3'Top'#2#0#7'Cap'
+  +'tion'#6#11'ToolButton4'#10'ImageIndex'#2#28#7'OnClick'#7#16'ToolButton4Clic'
+  +'k'#0#0#11'TToolButton'#11'ToolButton5'#4'Left'#2'g'#3'Top'#2#0#7'Caption'#6
+  +#11'ToolButton5'#10'ImageIndex'#2'$'#7'OnClick'#7#16'ToolButton5Click'#0#0#11
+  +'TToolButton'#11'ToolButton6'#4'Left'#3#128#0#3'Top'#2#0#7'Caption'#6#8'show'
+  +' all'#7'OnClick'#7#16'ToolButton6Click'#0#0#0#11'TStringGrid'#10'StringGrid'
+  +#6'Cursor'#7#7'crArrow'#4'Left'#2#0#6'Height'#3#243#0#3'Top'#2#30#5'Width'#3
+  +#189#3#5'Align'#7#8'alClient'#14'AlternateColor'#4#214#214#214#0#8'AutoEdit'
+  +#8#5'Color'#7#7'clWhite'#8'ColCount'#2#23#7'Columns'#14#1#9'Alignment'#7#8't'
+  +'aCenter'#13'Title.Caption'#6#15'Molecule number'#5'Width'#2#0#7'Visible'#8#0
+  +#1#9'Alignment'#7#8'taCenter'#11'ButtonStyle'#7#17'cbsCheckboxColumn'#15'Tit'
+  +'le.Alignment'#7#8'taCenter'#13'Title.Caption'#6#4'Vis.'#5'Width'#2#0#7'Visi'
+  +'ble'#8#0#1#9'Alignment'#7#8'taCenter'#11'ButtonStyle'#7#17'cbsCheckboxColum'
+  +'n'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#4'Inc.'#5'Width'#2
+  +#25#0#1#9'Alignment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'#13'Titl'
+  +'e.Caption'#6#18'First residue name'#5'Width'#2'P'#0#1#9'Alignment'#7#8'taCe'
+  +'nter'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#20'First residu'
+  +'e number'#5'Width'#2'Z'#0#1#9'Alignment'#7#8'taCenter'#15'Title.Alignment'#7
+  +#8'taCenter'#13'Title.Caption'#6#17'First atom symbol'#5'Width'#2'd'#0#1#9'A'
+  +'lignment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'
+  +#6#17'First atom number'#5'Width'#2'd'#0#1#9'Alignment'#7#8'taCenter'#13'Tit'
+  +'le.Caption'#6#19'Second residue name'#5'Width'#2'n'#0#1#9'Alignment'#7#8'ta'
+  +'Center'#13'Title.Caption'#6#21'Second residue number'#5'Width'#2'x'#0#1#9'A'
+  +'lignment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'
+  +#6#18'Second atom symbol'#5'Width'#2'i'#0#1#9'Alignment'#7#8'taCenter'#15'Ti'
+  +'tle.Alignment'#7#8'taCenter'#13'Title.Caption'#6#18'Second atom number'#5'W'
+  +'idth'#2'i'#0#1#9'Alignment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'
+  +#13'Title.Caption'#6#9'Bond type'#5'Width'#2'<'#0#1#9'Alignment'#7#8'taCente'
+  +'r'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#8'Distance'#5'Widt'
+  +'h'#2'<'#0#1#9'Alignment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'#13
+  +'Title.Caption'#6#17'First atom color '#5'Width'#2#0#7'Visible'#8#0#1#9'Alig'
+  +'nment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6
+  +#17'Second atom color'#5'Width'#2#0#7'Visible'#8#0#1#9'Alignment'#7#8'taCent'
+  +'er'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#7'First X'#5'Widt'
+  +'h'#2#0#7'Visible'#8#0#1#9'Alignment'#7#8'taCenter'#15'Title.Alignment'#7#8
+  +'taCenter'#13'Title.Caption'#6#7'First Y'#5'Width'#2#0#7'Visible'#8#0#1#9'Al'
+  +'ignment'#7#8'taCenter'#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6
+  +#7'First Z'#5'Width'#2#0#7'Visible'#8#0#1#9'Alignment'#7#8'taCenter'#13'Titl'
+  +'e.Caption'#6#8'Second X'#5'Width'#2#0#7'Visible'#8#0#1#9'Alignment'#7#8'taC'
+  +'enter'#13'Title.Caption'#6#8'Second Y'#5'Width'#2#0#7'Visible'#8#0#1#9'Alig'
+  +'nment'#7#8'taCenter'#13'Title.Caption'#6#8'Second Z'#5'Width'#2#0#7'Visible'
+  +#8#0#1#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#20'First elemen'
+  +'t symbol'#0#1#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#21'Seco'
+  +'nd element symbol'#0#0#15'DefaultColWidth'#2'A'#16'DefaultRowHeight'#2#18#9
+  +'FixedCols'#2#0#4'Flat'#9#7'Options'#11#15'goFixedVertLine'#15'goFixedHorzLi'
+  +'ne'#10'goHorzLine'#13'goRangeSelect'#19'goDrawFocusSelected'#11'goRowSizing'
+  +#11'goColSizing'#9'goEditing'#6'goTabs'#14'goSmoothScroll'#19'goScrollKeepVi'
+  +'sible'#0#8'RowCount'#2#1#10'ScrollBars'#7#14'ssAutoVertical'#8'TabOrder'#2#1
+  +#17'TitleFont.CharSet'#7#18'EASTEUROPE_CHARSET'#15'TitleFont.Color'#7#7'clBl'
+  +'ack'#16'TitleFont.Height'#2#245#14'TitleFont.Name'#6#13'MS Sans Serif'#15'T'
+  +'itleFont.Pitch'#7#10'fpVariable'#17'TitleFont.Quality'#7#7'fqDraft'#14'UseX'
+  ,'ORFeatures'#9#7'OnClick'#7#15'StringGridClick'#10'OnDblClick'#7#18'StringGr'
+  +'idDblClick'#11'OnMouseDown'#7#19'StringGridMouseDown'#9'OnMouseUp'#7#17'Str'
+  +'ingGridMouseUp'#9'ColWidths'#1#2#0#2#0#2#25#2'P'#2'Z'#2'd'#2'd'#2'n'#2'x'#2
+  +'i'#2'i'#2'<'#2'<'#2#0#2#0#2#0#2#0#2#0#2#0#2#0#2#0#2'A'#2'A'#0#0#0#0
+]);
