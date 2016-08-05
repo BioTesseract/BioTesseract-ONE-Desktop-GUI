@@ -1,0 +1,68 @@
+//-- File contains main arrays of the program and main variable definitions
+
+Var
+//-- TEST Variables to DELETE!
+
+  object_number:integer;
+
+//-- TYPES of the objects
+     Object_type_Protein:string  = 'PROTEIN';
+     Object_type_DNA:string      = 'DNA';
+     Object_type_Cofactor:string = 'COFACTOR';
+     Object_type_Water:string    = 'WATER';
+     Object_type_Ligand:string   = 'LIGAND';
+
+//-- SECTION types
+     Section_Type_Atom:string    = 'ATOM';
+     Section_Type_Hetatm:string  = 'HETATM';
+
+//-- TEMPORARY RECORD
+  TempRecord: array [0..22] of string; // temporary record
+
+//-- OBJECTS LIST contains list of objects in the program and its names, id etc. as defined below
+  ObjectsList : array of array of string;  {[0,0] = Row,Col}
+
+   // Records = value name = column index
+      ObjecstList_Object_ID          : integer = 0;
+      ObjectsList_Included           : integer = 1;
+      ObjectsList_Name               : integer = 2;
+      ObjectsList_Type               : integer = 3;
+      ObjectsList_Original_File_Name : integer = 4;
+      ObjectsList_Comment            : integer = 5;
+      ObjectsList_Visualization_Type : integer = 6;
+
+   // ObjectsList ColCount
+      ObjectsList_ColCount           : integer = 7;
+
+//-- OBJECTS contains objects details as coordinates as defined below
+  Objects : array of array of array of string; {[0,0,0] = ID, Row, Col}
+
+   // Objects ColCount
+      Objects_ColCount             : integer = 20;
+
+   // Records = value name = column index
+      Object_Type                  : integer = 0;
+      Object_Vis                   : integer=1;
+      Object_Inc                   : integer=2;
+
+      Object_Radius                : integer=18;
+      Object_Color                 : integer=19;
+
+      // ATOM / HETATM
+
+         Atom_ID                         : integer=3;
+         Atom_Name                       : integer=4;
+         Atom_AlternateLocationIndicator : integer=5;
+         Atom_ResidueName                : integer=6;
+         Atom_ChainIdentifier            : integer=7;
+         Atom_SequenceNr                 : integer=8;
+         Atom_Code_insertion_residues    : integer=9;
+         Atom_X                          : integer=10;
+         Atom_Y                          : integer=11;
+         Atom_Z                          : integer=12;
+         Atom_Occupancy                  : integer=13;
+         Atom_TemperatureFactor          : integer=14;
+         Atom_SegmentIdentifier          : integer=15;
+         Atom_ElementSymbol              : integer=16;
+         Atom_ChargeOnTheAtom            : integer=17;
+
