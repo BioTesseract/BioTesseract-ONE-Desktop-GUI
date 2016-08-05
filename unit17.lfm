@@ -1,0 +1,904 @@
+object Form15: TForm15
+  Left = 510
+  Height = 785
+  Top = 165
+  Width = 1050
+  Caption = 'APD-RMSD molecules analysis'
+  ClientHeight = 785
+  ClientWidth = 1050
+  FormStyle = fsStayOnTop
+  OnCreate = FormCreate
+  OnResize = FormResize
+  OnShow = FormShow
+  ShowInTaskBar = stAlways
+  LCLVersion = '1.0.2.0'
+  object Panel6: TPanel
+    Left = 1005
+    Height = 757
+    Top = 0
+    Width = 45
+    Align = alRight
+    BorderSpacing.Left = 3
+    BevelOuter = bvNone
+    ClientHeight = 757
+    ClientWidth = 45
+    FullRepaint = False
+    TabOrder = 0
+    object StringGridRight: TStringGrid
+      Left = 0
+      Height = 711
+      Top = 0
+      Width = 45
+      Align = alClient
+      Anchors = [akTop, akRight]
+      BorderStyle = bsNone
+      ColCount = 0
+      DefaultRowHeight = 27
+      FixedCols = 0
+      FixedRows = 0
+      Flat = True
+      RowCount = 0
+      ScrollBars = ssNone
+      TabOrder = 0
+      OnDrawCell = StringGridRightDrawCell
+      OnMouseMove = StringGridRightMouseMove
+    end
+    object Panel1: TPanel
+      Left = 0
+      Height = 46
+      Top = 711
+      Width = 45
+      Align = alBottom
+      BevelOuter = bvNone
+      ClientHeight = 46
+      ClientWidth = 45
+      TabOrder = 1
+      object SpeedButton5: TSpeedButton
+        AnchorSideRight.Side = asrBottom
+        Left = 0
+        Height = 22
+        Top = 0
+        Width = 23
+        Anchors = [akRight]
+        BorderSpacing.Right = 50
+        Caption = '<'
+        NumGlyphs = 0
+        OnClick = SpeedButton5Click
+        OnMouseDown = SpeedButton5MouseDown
+        OnMouseUp = SpeedButton5MouseUp
+      end
+      object SpeedButton4: TSpeedButton
+        Left = 23
+        Height = 22
+        Top = 0
+        Width = 23
+        Anchors = [akRight]
+        BorderSpacing.Right = 5
+        Caption = '>'
+        NumGlyphs = 0
+        OnClick = SpeedButton4Click
+        OnMouseDown = SpeedButton4MouseDown
+        OnMouseUp = SpeedButton4MouseUp
+      end
+      object SpeedButton11: TSpeedButton
+        Left = 23
+        Height = 22
+        Top = 24
+        Width = 23
+        Caption = '+'
+        NumGlyphs = 0
+        OnClick = SpeedButton11Click
+      end
+      object SpeedButton12: TSpeedButton
+        Left = 0
+        Height = 22
+        Top = 24
+        Width = 23
+        Caption = '-'
+        NumGlyphs = 0
+        OnClick = SpeedButton12Click
+      end
+    end
+  end
+  object StatusBar1: TStatusBar
+    Left = 47
+    Height = 28
+    Top = 757
+    Width = 1003
+    BorderSpacing.Left = 47
+    Panels = <>
+  end
+  object Notebook1: TNotebook
+    Left = 0
+    Height = 757
+    Top = 0
+    Width = 320
+    PageIndex = 0
+    Align = alLeft
+    TabOrder = 2
+    TabStop = True
+    object Page1: TPage
+      object Panel2: TPanel
+        Left = 0
+        Height = 757
+        Top = 0
+        Width = 320
+        Align = alLeft
+        BevelOuter = bvNone
+        ClientHeight = 757
+        ClientWidth = 320
+        TabOrder = 0
+        OnClick = Panel2Click
+        object Panel4: TPanel
+          AnchorSideTop.Control = Panel3
+          AnchorSideTop.Side = asrBottom
+          Left = 8
+          Height = 336
+          Top = 504
+          Width = 299
+          BevelOuter = bvNone
+          ClientHeight = 336
+          ClientWidth = 299
+          TabOrder = 9
+          object RadioButton5: TRadioButton
+            Left = 0
+            Height = 24
+            Top = 40
+            Width = 298
+            Caption = 'Indicate regions scaled by average values'
+            Checked = True
+            TabOrder = 0
+            TabStop = True
+          end
+          object SpeedButton7: TSpeedButton
+            Left = 250
+            Height = 31
+            Top = 60
+            Width = 41
+            Align = alCustom
+            Anchors = []
+            BorderSpacing.Bottom = 2
+            Caption = 'Add'
+            NumGlyphs = 0
+            Spacing = 0
+            OnClick = SpeedButton7Click
+          end
+          object DividerBevel7: TDividerBevel
+            Left = 6
+            Height = 17
+            Top = 464
+            Width = 283
+            Caption = '  3D visualization    '
+            Font.Style = [fsBold]
+            ParentFont = False
+            LeftIndent = 20
+          end
+          object DividerBevel6: TDividerBevel
+            Left = -1
+            Height = 17
+            Top = 8
+            Width = 307
+            Caption = '  3D visualization    '
+            Font.Style = [fsBold]
+            ParentFont = False
+            LeftIndent = 20
+          end
+          object TrackBar1: TTrackBar
+            Left = 88
+            Height = 25
+            Top = 136
+            Width = 136
+            Max = 100
+            OnChange = TrackBar1Change
+            Position = 100
+            ScalePos = trBottom
+            TabOrder = 1
+          end
+          object TrackBar2: TTrackBar
+            Left = 88
+            Height = 25
+            Top = 104
+            Width = 136
+            Max = 50
+            Min = 1
+            OnChange = TrackBar2Change
+            Position = 5
+            ScalePos = trBottom
+            ParentShowHint = False
+            TabOrder = 2
+          end
+          object CheckBox4: TCheckBox
+            Left = 24
+            Height = 24
+            Top = 72
+            Width = 138
+            Caption = 'Average distance'
+            Checked = True
+            State = cbChecked
+            TabOrder = 3
+          end
+          object Label1: TLabel
+            Left = 8
+            Height = 21
+            Top = 184
+            Width = 203
+            Caption = 'Hide average values less than: '
+            ParentColor = False
+          end
+          object FloatSpinEdit1: TFloatSpinEdit
+            Left = 176
+            Height = 28
+            Top = 184
+            Width = 65
+            Increment = 0.01
+            MaxValue = 100
+            MinValue = 0
+            OnChange = FloatSpinEdit1Change
+            TabOrder = 4
+            Value = 0
+          end
+          object SpeedButton14: TSpeedButton
+            Left = 129
+            Height = 22
+            Top = 224
+            Width = 162
+            Caption = 'Export report to *.csv'
+            NumGlyphs = 0
+            OnClick = SpeedButton14Click
+          end
+          object Label2: TLabel
+            Left = 72
+            Height = 1
+            Top = 228
+            Width = 1
+            ParentColor = False
+          end
+          object SpeedButton15: TSpeedButton
+            Left = 248
+            Height = 31
+            Top = 176
+            Width = 41
+            Caption = 'Hide'
+            NumGlyphs = 0
+            OnClick = SpeedButton15Click
+          end
+          object Label3: TLabel
+            Left = 38
+            Height = 21
+            Top = 104
+            Width = 59
+            Caption = 'Volume :'
+            ParentColor = False
+          end
+          object Label4: TLabel
+            Left = 8
+            Height = 21
+            Top = 136
+            Width = 95
+            Caption = 'Transparency :'
+            ParentColor = False
+          end
+        end
+        object DividerBevel1: TDividerBevel
+          Left = 6
+          Height = 17
+          Top = 64
+          Width = 299
+          Caption = 'Comparison type  '
+          Font.Style = [fsBold]
+          ParentFont = False
+          LeftIndent = 20
+        end
+        object RadioButton2: TRadioButton
+          Left = 18
+          Height = 23
+          Top = 88
+          Width = 176
+          Caption = 'Compare included proteins with'
+          Checked = True
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnMouseUp = RadioButton2MouseUp
+          ParentBidiMode = False
+          ParentFont = False
+          TabOrder = 0
+          TabStop = True
+        end
+        object ComboBox2: TComboBox
+          Left = 33
+          Height = 28
+          Top = 112
+          Width = 266
+          ItemHeight = 20
+          TabOrder = 1
+        end
+        object RadioButton1: TRadioButton
+          Left = 18
+          Height = 23
+          Top = 144
+          Width = 245
+          Caption = 'Compare inc. proteins succeeding one by one'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnMouseUp = RadioButton1MouseUp
+          ParentBidiMode = False
+          ParentFont = False
+          TabOrder = 2
+        end
+        object DividerBevel2: TDividerBevel
+          Left = 6
+          Height = 17
+          Top = 8
+          Width = 299
+          Caption = '  Scope  '
+          Font.Style = [fsBold]
+          ParentFont = False
+          LeftIndent = 20
+        end
+        object CheckBox5: TCheckBox
+          Left = 201
+          Height = 23
+          Top = 32
+          Width = 102
+          Caption = 'Protein residues'
+          Checked = True
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnChange = CheckBox5Change
+          OnMouseUp = CheckBox5MouseUp
+          ParentFont = False
+          State = cbChecked
+          TabOrder = 3
+        end
+        object DividerBevel3: TDividerBevel
+          Left = 6
+          Height = 17
+          Top = 168
+          Width = 299
+          Caption = '  Parameter  '
+          Font.Style = [fsBold]
+          ParentFont = False
+          LeftIndent = 20
+        end
+        object CheckBox1: TCheckBox
+          Left = 16
+          Height = 23
+          Top = 224
+          Width = 44
+          Caption = 'aAP'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnMouseUp = CheckBox1MouseUp
+          ParentFont = False
+          TabOrder = 4
+        end
+        object CheckBox2: TCheckBox
+          Left = 79
+          Height = 23
+          Top = 192
+          Width = 53
+          Caption = 'RMSD'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnMouseUp = CheckBox2MouseUp
+          ParentFont = False
+          TabOrder = 5
+        end
+        object CheckBox3: TCheckBox
+          Left = 16
+          Height = 23
+          Top = 192
+          Width = 48
+          Caption = 'aDist'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnMouseUp = CheckBox3MouseUp
+          ParentFont = False
+          TabOrder = 6
+        end
+        object CheckBox6: TCheckBox
+          Left = 79
+          Height = 23
+          Top = 224
+          Width = 45
+          Caption = 'APD'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnMouseUp = CheckBox6MouseUp
+          ParentFont = False
+          TabOrder = 7
+        end
+        object SpeedButton6: TSpeedButton
+          Left = 224
+          Height = 28
+          Top = 232
+          Width = 75
+          Align = alCustom
+          BorderSpacing.Bottom = 2
+          Caption = 'Compare'
+          NumGlyphs = 0
+          OnClick = SpeedButton6Click
+        end
+        object Panel3: TPanel
+          Left = 0
+          Height = 241
+          Top = 263
+          Width = 320
+          Align = alTop
+          Anchors = [akTop, akRight]
+          BorderSpacing.Top = 263
+          BevelOuter = bvNone
+          ClientHeight = 241
+          ClientWidth = 320
+          TabOrder = 8
+          object RadioButton3: TRadioButton
+            Left = 12
+            Height = 23
+            Top = 81
+            Width = 109
+            Caption = 'Gradient by rows'
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            OnChange = RadioButton3Change
+            OnClick = RadioButton3Click
+            OnMouseUp = RadioButton3MouseUp
+            ParentBidiMode = False
+            ParentFont = False
+            TabOrder = 0
+          end
+          object RadioButton4: TRadioButton
+            Left = 12
+            Height = 23
+            Top = 105
+            Width = 123
+            Caption = 'Gradient by columns'
+            Enabled = False
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            OnClick = RadioButton4Click
+            OnMouseUp = RadioButton4MouseUp
+            ParentBidiMode = False
+            ParentFont = False
+            TabOrder = 1
+          end
+          object RadioButton6: TRadioButton
+            Left = 12
+            Height = 23
+            Top = 57
+            Width = 131
+            Caption = 'Gradient by all values '
+            Checked = True
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            OnClick = RadioButton6Click
+            OnMouseUp = RadioButton5MouseUp
+            ParentBidiMode = False
+            ParentFont = False
+            TabOrder = 2
+            TabStop = True
+          end
+          object DividerBevel4: TDividerBevel
+            Left = 6
+            Height = 17
+            Top = 0
+            Width = 300
+            Caption = '  Gradient type  '
+            Font.Style = [fsBold]
+            ParentFont = False
+            LeftIndent = 20
+          end
+          object Panel5: TPanel
+            Left = 5
+            Height = 104
+            Top = 137
+            Width = 315
+            BevelOuter = bvNone
+            ClientHeight = 104
+            ClientWidth = 315
+            TabOrder = 3
+            object DividerBevel5: TDividerBevel
+              Left = 0
+              Height = 17
+              Top = 0
+              Width = 302
+              Caption = '  Colors & steps  '
+              Font.Style = [fsBold]
+              ParentFont = False
+              LeftIndent = 20
+            end
+            object RadioButton7: TRadioButton
+              Left = 7
+              Height = 24
+              Top = 24
+              Width = 111
+              Caption = 'Matrix values'
+              Checked = True
+              TabOrder = 2
+              TabStop = True
+            end
+            object RadioButton8: TRadioButton
+              Left = 7
+              Height = 24
+              Top = 48
+              Width = 116
+              Caption = 'Right average'
+              TabOrder = 1
+            end
+            object RadioButton9: TRadioButton
+              Left = 7
+              Height = 24
+              Top = 75
+              Width = 131
+              Caption = 'Bottom average'
+              TabOrder = 0
+            end
+            object CheckBox8: TCheckBox
+              Left = 139
+              Height = 24
+              Top = 24
+              Width = 173
+              Caption = 'Mark min / max values'
+              OnChange = CheckBox8Change
+              TabOrder = 3
+            end
+            object SpeedButton10: TSpeedButton
+              Left = 213
+              Height = 30
+              Top = 64
+              Width = 86
+              Caption = 'Show scale'
+              NumGlyphs = 0
+              OnClick = SpeedButton10Click
+            end
+          end
+          object SpeedButton3: TSpeedButton
+            Left = 224
+            Height = 28
+            Top = 97
+            Width = 75
+            Align = alCustom
+            BorderSpacing.Bottom = 2
+            Caption = 'Do gradient'
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            NumGlyphs = 0
+            Spacing = 0
+            OnClick = SpeedButton3Click
+            ParentFont = False
+          end
+          object Label13: TLabel
+            Left = 12
+            Height = 15
+            Top = 28
+            Width = 23
+            Caption = 'Min :'
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            ParentColor = False
+            ParentFont = False
+          end
+          object ColorButton2: TColorButton
+            Left = 36
+            Height = 23
+            Top = 25
+            Width = 48
+            BorderWidth = 2
+            ButtonColorSize = 16
+            ButtonColor = clLime
+            Flat = True
+          end
+          object Label14: TLabel
+            Left = 92
+            Height = 15
+            Top = 28
+            Width = 27
+            Caption = 'Max :'
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            ParentColor = False
+            ParentFont = False
+          end
+          object ColorButton1: TColorButton
+            Left = 124
+            Height = 23
+            Top = 25
+            Width = 48
+            BorderWidth = 2
+            ButtonColorSize = 16
+            ButtonColor = clRed
+            Color = clWhite
+            Flat = True
+          end
+          object Label15: TLabel
+            Left = 188
+            Height = 15
+            Top = 28
+            Width = 38
+            Caption = 'Steps : '
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            ParentColor = False
+            ParentFont = False
+          end
+          object SpinEdit1: TSpinEdit
+            Left = 236
+            Height = 22
+            Top = 25
+            Width = 48
+            Font.CharSet = EASTEUROPE_CHARSET
+            Font.Color = clBlack
+            Font.Height = -11
+            Font.Name = 'Arial'
+            Font.Pitch = fpVariable
+            Font.Quality = fqDraft
+            MaxValue = 1000
+            MinValue = 1
+            ParentFont = False
+            TabOrder = 4
+            Value = 10
+          end
+        end
+        object CheckBox7: TCheckBox
+          Left = 144
+          Height = 24
+          Top = 192
+          Width = 112
+          Caption = 'APD + RMSD'
+          Checked = True
+          OnMouseUp = CheckBox7MouseUp
+          State = cbChecked
+          TabOrder = 10
+        end
+        object CheckBox9: TCheckBox
+          Left = 16
+          Height = 23
+          Top = 32
+          Width = 88
+          Caption = 'Ligand atoms'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnChange = CheckBox9Change
+          OnMouseUp = CheckBox9MouseUp
+          ParentFont = False
+          TabOrder = 11
+        end
+        object CheckBox10: TCheckBox
+          Left = 120
+          Height = 23
+          Top = 32
+          Width = 62
+          Caption = 'Ligands'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnChange = CheckBox9Change
+          OnMouseUp = CheckBox10MouseUp
+          ParentFont = False
+          TabOrder = 12
+        end
+        object CheckBox11: TCheckBox
+          Left = 201
+          Height = 23
+          Top = 56
+          Width = 57
+          Caption = 'Protein'
+          Font.CharSet = EASTEUROPE_CHARSET
+          Font.Color = clBlack
+          Font.Height = -11
+          Font.Name = 'Arial'
+          Font.Pitch = fpVariable
+          Font.Quality = fqDraft
+          OnChange = CheckBox5Change
+          OnMouseUp = CheckBox11MouseUp
+          ParentFont = False
+          TabOrder = 13
+          Visible = False
+        end
+      end
+    end
+    object Page2: TPage
+      object DividerBevel8: TDividerBevel
+        Left = 6
+        Height = 17
+        Top = 8
+        Width = 291
+        Caption = 'Color gradient scale  '
+        Font.Style = [fsBold]
+        ParentFont = False
+        LeftIndent = 20
+      end
+      object StringGrid2: TStringGrid
+        AnchorSideTop.Control = DividerBevel8
+        AnchorSideBottom.Control = SpeedButton2
+        Left = 6
+        Height = 522
+        Top = 25
+        Width = 291
+        Anchors = [akTop, akLeft, akBottom]
+        BorderSpacing.Top = 17
+        BorderSpacing.Bottom = 6
+        Color = cl3DLight
+        ColCount = 3
+        Columns = <        
+          item
+            Title.Alignment = taCenter
+            Title.Caption = 'From'
+          end        
+          item
+            Title.Alignment = taCenter
+            Title.Caption = 'To'
+          end        
+          item
+            Title.Alignment = taCenter
+            Title.Caption = 'Color'
+          end>
+        DefaultColWidth = 97
+        FixedCols = 0
+        Flat = True
+        RowCount = 1
+        ScrollBars = ssAutoVertical
+        TabOrder = 0
+        OnDrawCell = StringGrid2DrawCell
+        Cells = (
+          1
+          0
+          0
+          'Value from'
+        )
+      end
+      object SpeedButton2: TSpeedButton
+        Left = 6
+        Height = 32
+        Top = 553
+        Width = 291
+        Align = alBottom
+        BorderSpacing.Left = 6
+        BorderSpacing.Right = 7
+        BorderSpacing.Bottom = 5
+        Caption = 'Close'
+        NumGlyphs = 0
+        OnClick = SpeedButton2Click
+      end
+    end
+  end
+  object Panel8: TPanel
+    Left = 320
+    Height = 757
+    Top = 0
+    Width = 682
+    Align = alClient
+    BevelOuter = bvNone
+    ClientHeight = 757
+    ClientWidth = 682
+    FullRepaint = False
+    TabOrder = 3
+    object Panel7: TPanel
+      Left = 0
+      Height = 45
+      Top = 712
+      Width = 682
+      Align = alBottom
+      BorderSpacing.Top = 3
+      BevelOuter = bvNone
+      ClientHeight = 45
+      ClientWidth = 682
+      FullRepaint = False
+      TabOrder = 0
+      object StringGridBottom: TStringGrid
+        Left = 0
+        Height = 45
+        Top = 0
+        Width = 682
+        Align = alClient
+        Anchors = [akTop, akRight]
+        BorderStyle = bsNone
+        ColCount = 0
+        DefaultRowHeight = 45
+        FixedCols = 0
+        FixedRows = 0
+        Flat = True
+        RowCount = 0
+        ScrollBars = ssNone
+        TabOrder = 0
+        OnDrawCell = StringGridBottomDrawCell
+        OnMouseMove = StringGridBottomMouseMove
+      end
+    end
+    object StringGrid1: TStringGrid
+      Left = 0
+      Height = 709
+      Top = 0
+      Width = 682
+      Align = alClient
+      Anchors = [akTop, akRight]
+      BorderStyle = bsNone
+      ColCount = 0
+      DefaultRowHeight = 27
+      FixedCols = 0
+      FixedRows = 0
+      Flat = True
+      RowCount = 0
+      ScrollBars = ssNone
+      TabOrder = 1
+      OnDrawCell = StringGrid1DrawCell
+      OnMouseMove = StringGrid1MouseMove
+      OnTopLeftChanged = StringGrid1TopLeftChanged
+    end
+  end
+  object SpeedButton13: TSpeedButton
+    AnchorSideLeft.Control = Owner
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 24
+    Top = 761
+    Width = 48
+    Anchors = [akLeft, akBottom]
+    Caption = '<<'
+    NumGlyphs = 0
+    OnClick = SpeedButton13Click
+  end
+end
