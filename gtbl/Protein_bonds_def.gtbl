@@ -10,6 +10,7 @@
 # Content separated by separator                                       #
 # End                                                                  #
 ########################################################################
+# Author: Dr Rafal D. Urniaz 
 ########################################################################
 # Protein_bonds_def array contains PDB atoms with assigned bond types  #
 ########################################################################
