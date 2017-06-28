@@ -3,13 +3,6 @@
 </br>
 The <b>BioTesseract™ </b> is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
 
-# About repository
-This repository contains a source code of the <b>BioTesseract™ ONE </b>Desktop version. The software <b>was</b> distributed both, as a desktop and a web service although since the end of 2016 <b>the desktop version is no longer supported.</b>  
-
-<div align="center" style="bottom: 60px; ">
-Program name: BioTesseract™ ONE Desktop | Version: 1.4.1 Build: 402 | Author: Dr Rafal Urniaz et al.
-</div>
-
 # BioTesseract™ ONE Desktop <img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" align="right" width="50%">
 
 The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by Dr Rafal Urniaz. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
@@ -21,6 +14,12 @@ The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bi
 * Dedicated tools for data manipulation, files editing and conversion
 * Specific and unique methods for data visualization
 
+# About repository
+This repository contains a source code of the <b>BioTesseract™ ONE </b>Desktop version. The software <b>was</b> distributed both, as a desktop and a web service although since the end of 2016 <b>the desktop version is no longer supported.</b>  
+
+<div align="center" style="bottom: 60px; ">
+Program name: BioTesseract™ ONE Desktop | Version: 1.4.1 Build: 402 | Author: Dr Rafal Urniaz et al.
+</div>
 
 ### Grow_4 website (last release download): www.BioTesseract.com/Grow_4/
 ### BioTesseract™ website: www.BioTesseract.com
