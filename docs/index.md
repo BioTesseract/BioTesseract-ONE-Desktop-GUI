@@ -13,11 +13,12 @@ The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bi
 * Specific and unique methods for data visualization
 
 # About repository
-This repository contains a source code of the <b>BioTesseract™ ONE </b>Desktop version. The software <b>was</b> distributed both, as a desktop and a web service although since the end of 2016 <b>the desktop version is no longer supported.</b>  
 
 <div align="center" style="bottom: 60px; ">
 BioTesseract™ ONE Desktop | Version: 1.4.1 Build: 402 | Author: Dr Rafal Urniaz et al.
 </div>
+
+This repository contains a source code of the <b>BioTesseract™ ONE </b>Desktop version. The software <b>was</b> distributed both, as a desktop and a web service although since the end of 2016 <b>the desktop version is no longer supported.</b>  
 
 Last release: https://github.com/BioTesseract/ONE/releases
 
