@@ -1,0 +1,116 @@
+object Form16: TForm16
+  Left = 366
+  Height = 136
+  Top = 324
+  Width = 886
+  Caption = 'Sequence panel'
+  ClientHeight = 136
+  ClientWidth = 886
+  Color = clForm
+  FormStyle = fsStayOnTop
+  OnShow = FormShow
+  LCLVersion = '1.0.2.0'
+  object ToolBar1: TToolBar
+    Left = 0
+    Top = 0
+    Width = 886
+    ButtonHeight = 32
+    ButtonWidth = 32
+    EdgeBorders = []
+    EdgeInner = esNone
+    EdgeOuter = esNone
+    ShowCaptions = True
+    TabOrder = 0
+    object ToolButton1: TToolButton
+      Left = 335
+      Top = 0
+      Caption = 'Color Clustal'
+      OnClick = ToolButton1Click
+    end
+    object ToolButton3: TToolButton
+      Left = 33
+      Top = 0
+      Caption = 'XXX'
+      OnClick = ToolButton3Click
+    end
+    object ToolButton4: TToolButton
+      Left = 1
+      Top = 0
+      Caption = 'X'
+      OnClick = ToolButton4Click
+    end
+    object ToolButton5: TToolButton
+      Left = 68
+      Top = 0
+      Caption = 'Name'
+      OnClick = ToolButton5Click
+    end
+    object ToolButton6: TToolButton
+      Left = 604
+      Top = 0
+      Caption = 'Export *.fasta'
+      OnClick = ToolButton6Click
+    end
+    object ToolButton8: TToolButton
+      Left = 427
+      Top = 0
+      Caption = 'Color MAEditor'
+      OnClick = ToolButton8Click
+    end
+    object ToolButton9: TToolButton
+      Left = 157
+      Top = 0
+      Caption = 'Formula'
+      OnClick = ToolButton9Click
+    end
+    object ToolButton10: TToolButton
+      Left = 116
+      Top = 0
+      Caption = 'Mass'
+      OnClick = ToolButton10Click
+    end
+    object ToolButton11: TToolButton
+      Left = 219
+      Top = 0
+      Caption = 'Surface'
+      OnClick = ToolButton11Click
+      Visible = False
+    end
+    object ToolButton12: TToolButton
+      Left = 276
+      Top = 0
+      Caption = 'Volume'
+      OnClick = ToolButton12Click
+      Visible = False
+    end
+    object ToolButton13: TToolButton
+      Left = 700
+      Top = 0
+      Caption = 'Export *.csv'
+      OnClick = ToolButton13Click
+    end
+    object ToolButton2: TToolButton
+      Left = 538
+      Top = 0
+      Caption = 'No color'
+      OnClick = ToolButton2Click
+    end
+  end
+  object StringGrid1: TStringGrid
+    Left = 0
+    Height = 104
+    Top = 32
+    Width = 886
+    Align = alClient
+    ColCount = 0
+    FixedCols = 0
+    FixedRows = 0
+    GridLineWidth = 0
+    RowCount = 0
+    TabOrder = 1
+    TabStop = False
+    Visible = False
+    OnDrawCell = StringGrid1DrawCell
+    OnMouseUp = StringGrid1MouseUp
+  end
+end

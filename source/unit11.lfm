@@ -1,0 +1,284 @@
+object Form10: TForm10
+  Left = 701
+  Height = 216
+  Top = 243
+  Width = 421
+  ActiveControl = GroupBox2
+  Caption = 'Align molecules by,...'
+  ClientHeight = 216
+  ClientWidth = 421
+  Color = cl3DLight
+  OnShow = FormShow
+  LCLVersion = '1.0.2.0'
+  object SpeedButton1: TSpeedButton
+    Left = 312
+    Height = 33
+    Top = 80
+    Width = 104
+    Caption = 'Overlay'
+    NumGlyphs = 0
+    OnClick = SpeedButton1Click
+  end
+  object SpeedButton2: TSpeedButton
+    Left = 312
+    Height = 33
+    Top = 120
+    Width = 72
+    Caption = 'View models'
+    NumGlyphs = 0
+    OnClick = SpeedButton2Click
+  end
+  object SpeedButton3: TSpeedButton
+    Left = 312
+    Height = 33
+    Top = 160
+    Width = 104
+    Caption = 'Accept changes'
+    NumGlyphs = 0
+    OnClick = SpeedButton3Click
+  end
+  object SpeedButton4: TSpeedButton
+    Left = 384
+    Height = 33
+    Top = 120
+    Width = 32
+    Glyph.Data = {
+      36040000424D3604000000000000360000002800000010000000100000000100
+      2000000000000004000064000000640000000000000000000000000000190000
+      0033000000330000003300000033000000330000000800000008000000330000
+      0033000000330000003300000033000000330000003300000019976C1496B782
+      18FFB68014FFB37A06FFD7CFD2FFD8CEC9FF6C676653593A0053D9CFCEFFD5CA
+      C3FFD4CAC4FFD6CFD2FFB37A06FFB68014FFB78218FF976C1496B78218FFF6CD
+      8BFFF2C67DFFF0C171FFFAF7FBFFFFFFFFFF4C4848FF989392FFFFFFFFFFF7EF
+      EAFFF6EFEBFFF9F6FAFFF0C171FFF2C67DFFF6CD8BFFB78218FFB68116FFF3CA
+      87FFEDBC6DFFEBB761FFF8F5F7FFFFFFFFFF4A4541FF948C88FFFFFFFFFFF1E8
+      E0FFF0E7E0FFF7F4F7FFEBB761FFEDBC6DFFF3CA87FFB68116FFB68116FFF1CB
+      89FFE9B762FFE7B257FFF9F8FBFFFDF7F2FF877F79FF4A4441FFFEF7F2FFEEE3
+      D8FFEDE2D9FFF8F7FBFFE8B257FFE9B762FFF1CB89FFB68116FFB68116FFF3CC
+      8EFFE8B25AFFE7AE51FFFCFFFFFFECE0D7FFF1E4DAFFF1E5DAFFEDE0D5FFEADD
+      D3FFE9DED5FFFBFFFFFFE7AE51FFE8B25AFFF3CC8EFFB68116FFB68115FFF3CE
+      94FFE6AE51FFE5AB4BFFE6C9A4FFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFDFF
+      FFFFFEFFFFFFE6C9A4FFE5AC4BFFE6AE51FFF3CE94FFB68115FFB68115FFF3D0
+      9AFFE5A845FFE3A640FFE2A136FFE29E2FFFE19D2DFFE19D2CFFE19D2CFFE19D
+      2DFFE29E2FFFE2A136FFE3A640FFE5A845FFF3D09AFFB68115FFB68114FFF4D4
+      A0FFE1A136FFF2DEB7FFFCFFFFFFFBFFFDFFFBFFFCFFFBFFFDFFFBFFFDFFFBFF
+      FDFFFBFFFDFFFBFFFFFFF2DEB7FFE1A136FFF4D4A0FFB68114FFB68014FFF6D8
+      A7FFE09C27FFFBFFFFFFFCFBF3FFFCF9EFFFFBF8EEFFFCFAF0FFFCFAF0FFFBF9
+      EEFFF9F8EDFFFAF9F1FFFAFEFEFFE09B27FFF6D8A7FFB68014FFB68014FFF8DC
+      B0FFE0981CFFFBFBF8FF79787BFFA2A0A2FFFCF6EAFF797879FFA3A1A3FFA09F
+      A1FFFAF4E9FF9D9DA0FFF9F9F6FFE0981CFFF8DCB0FFB68014FFB68113FFFCE3
+      BCFF9B6104FFFDFCF9FFFDF5E8FFFEF4E7FFFBF2E5FFFCF2E5FFFBF2E5FFFBF2
+      E5FFFAF1E3FFF9F1E5FFFCFAF7FF9A6104FFFCE3BCFFB68113FFB68012FFFEE9
+      C6FF714100FFFFFFFFFF79797AFF7A7A7AFFA2A1A1FF9F9F9FFFF6ECDEFF7777
+      77FFA1A1A1FF9E9FA0FFFFFFFFFF704100FFFEE9C6FFB68012FFB68012FFFDEC
+      D1FFDA8600FFFFFFFFFFF1E5D8FFF2E5D8FFF2E5D7FFF0E3D6FFEFE2D5FFF1E4
+      D7FFF1E4D6FFEFE3D6FFFFFFFFFFDA8600FFFDECD1FFB68012FFB78115FFFFEC
+      CDFFFCE7C3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFCE7C3FFFFECCDFFB78115FFB782187CB781
+      14FFB57E0FFFB57C0BFFB57C09FFB57C09FFB57C09FFB57C09FFB57C09FFB57C
+      09FFB57C09FFB57C09FFB57C0BFFB57E0FFFB78114FFB782187C
+    }
+    NumGlyphs = 0
+    OnClick = SpeedButton4Click
+  end
+  object GroupBox5: TGroupBox
+    Left = 8
+    Height = 136
+    Top = 72
+    Width = 296
+    Caption = 'Type of algorithm :'
+    ClientHeight = 114
+    ClientWidth = 292
+    Font.CharSet = EASTEUROPE_CHARSET
+    Font.Color = clBlack
+    Font.Height = -13
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+    object CheckBox3: TCheckBox
+      Left = 14
+      Height = 23
+      Top = 16
+      Width = 192
+      Caption = 'Geometrical Centres Overlay'
+      Checked = True
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = '@Arial Unicode MS'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox3Change
+      ParentFont = False
+      State = cbChecked
+      TabOrder = 0
+    end
+    object CheckBox4: TCheckBox
+      Left = 14
+      Height = 23
+      Top = 40
+      Width = 172
+      Caption = 'Center of Gravity Overlay'
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = '@Arial Unicode MS'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox4Change
+      ParentFont = False
+      TabOrder = 1
+    end
+    object CheckBox5: TCheckBox
+      Left = 14
+      Height = 23
+      Top = 64
+      Width = 130
+      Caption = 'Overlay by plane :'
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = '@Arial Unicode MS'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox4Change
+      ParentFont = False
+      TabOrder = 2
+    end
+    object CheckBox1: TCheckBox
+      Left = 150
+      Height = 23
+      Top = 64
+      Width = 31
+      Caption = 'X'
+      Checked = True
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox1Change
+      OnClick = CheckBox1Click
+      ParentFont = False
+      State = cbChecked
+      TabOrder = 3
+    end
+    object CheckBox6: TCheckBox
+      Left = 190
+      Height = 23
+      Top = 64
+      Width = 33
+      Caption = 'Y'
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox6Change
+      OnClick = CheckBox6Click
+      ParentFont = False
+      TabOrder = 4
+    end
+    object CheckBox7: TCheckBox
+      Left = 230
+      Height = 23
+      Top = 64
+      Width = 31
+      Caption = 'Z'
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox7Change
+      OnClick = CheckBox7Click
+      ParentFont = False
+      TabOrder = 5
+    end
+    object CheckBox8: TCheckBox
+      Left = 14
+      Height = 23
+      Top = 88
+      Width = 216
+      Caption = 'Randomise ligands in the speace'
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = '@Arial Unicode MS'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      OnChange = CheckBox4Change
+      ParentFont = False
+      TabOrder = 6
+    end
+  end
+  object GroupBox1: TGroupBox
+    Left = 8
+    Height = 56
+    Top = 8
+    Width = 120
+    Caption = ' Align : '
+    ClientHeight = 34
+    ClientWidth = 116
+    Font.CharSet = EASTEUROPE_CHARSET
+    Font.Color = clBlack
+    Font.Height = -13
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+    object CheckBox2: TCheckBox
+      Left = 22
+      Height = 23
+      Top = 8
+      Width = 79
+      Caption = 'Included'
+      Checked = True
+      Enabled = False
+      OnChange = CheckBox2Change
+      State = cbChecked
+      TabOrder = 0
+    end
+  end
+  object GroupBox2: TGroupBox
+    Left = 136
+    Height = 57
+    Top = 7
+    Width = 280
+    Caption = ' Reference molecule : '
+    ClientHeight = 35
+    ClientWidth = 276
+    Font.CharSet = EASTEUROPE_CHARSET
+    Font.Color = clBlack
+    Font.Height = -13
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+    object ComboBox2: TComboBox
+      Left = 6
+      Height = 24
+      Top = 9
+      Width = 264
+      Font.CharSet = EASTEUROPE_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      ItemHeight = 16
+      ParentFont = False
+      TabOrder = 0
+    end
+  end
+end
