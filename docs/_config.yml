@@ -1,5 +1,7 @@
 title: BioTesseract™ ONE
 description: Cambridge Bioinformatics Solutions
-show_downloads: false
-google_analytics:
 theme: jekyll-theme-minimal
+show_downloads: true
+google_site_verification: XqjgDDzQlNamaGft-wYZtx565x3YrDmJa-e2nsku1fU
+plugins:
+- jekyll-seo-tag
