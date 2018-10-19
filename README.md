@@ -2,9 +2,11 @@
 
 The <b>BioTesseract™ </b> is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
 
-# BioTesseract™ ONE Desktop <a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" align="right" width="50%"></a>
+# BioTesseract™ ONE Desktop 
 
 The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by Dr Rafal Urniaz. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
+
+<a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" align="right" width="50%"></a>
 
 # Main features
 * Small compounds, macromolecules and structure – ligand complexes visualization
