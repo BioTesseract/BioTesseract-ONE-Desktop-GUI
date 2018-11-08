@@ -12,7 +12,7 @@ The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bi
 * Dedicated tools for data manipulation, files editing and conversion
 * Specific and unique methods for data visualization
 
-<p align="center"><a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" width="45%"></a></p><p align="center"><a href="docs/1.png"><img src="docs/1.png" width="45%"></a></p>
+<p align="center"><a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" width="45%"></a><a href="docs/1.png"><img src="docs/1.png" width="45%"></a></p>
 
 
 
