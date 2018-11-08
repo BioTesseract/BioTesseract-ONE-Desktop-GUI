@@ -6,13 +6,16 @@ The <b>BioTesseract™ </b> is an international academic initiative established 
 
 The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by Dr Rafal Urniaz. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
 
-<p align="center"><a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" width="90%"></a></p>
-
 # Main features
 * Small compounds, macromolecules and structure – ligand complexes visualization
 * User-friendly console for high-throughput screening and easy terminal access
 * Dedicated tools for data manipulation, files editing and conversion
 * Specific and unique methods for data visualization
+
+<p align="center"><a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" width="90%"></a></p>
+<p align="center"><a href="docs/1.png"><img src="docs/1.png" width="90%"></a></p>
+
+
 
 # About repository
 
