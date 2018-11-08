@@ -395,7 +395,7 @@ LazarusResources.Add('TSettings','FORMDATA',[
   +'de'#7#9'asrBottom'#14'EditLabel.Left'#3#175#1#16'EditLabel.Height'#2#20#13
   +'EditLabel.Top'#2#28#15'EditLabel.Width'#2'F'#17'EditLabel.Caption'#6#9'User'
   +'name '#21'EditLabel.ParentColor'#8#13'LabelPosition'#7#6'lpLeft'#8'TabOrder'
-  +#2#1#4'Text'#6#10'plgsitcome'#0#0#0#9'TTabSheet'#9'TabSheet6'#7'Caption'#6#17
+  +#2#1#4'Text'#6#10''#0#0#0#9'TTabSheet'#9'TabSheet6'#7'Caption'#6#17
   +'Scientific arrays'#12'ClientHeight'#3'9'#2#11'ClientWidth'#3#165#3#6'OnShow'
   +#7#13'TabSheet6Show'#0#6'TLabel'#6'Label1'#4'Left'#2#12#6'Height'#2#20#3'Top'
   +#2#14#5'Width'#2'*'#7'Caption'#6#7'Array :'#11'ParentColor'#8#0#0#12'TSpeedB'
