@@ -1,6 +1,6 @@
 # About BioTesseract™  
 
-The **BioTesseract™ ** is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
+The **BioTesseract™** is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
 
 # BioTesseract™ ONE Desktop 
 
@@ -18,7 +18,7 @@ The **BioTesseract™ ONE** is scientific software dedicated to structural bioin
 
 # About repository
 
-This repository contains a source code of the **BioTesseract™ ONE **Desktop version. The software **was** distributed both, as a desktop and a web service although since the end of 2016 **the desktop version is no longer supported.**  
+This repository contains a source code of the **BioTesseract™ ONE Desktop version**. The software **was** distributed both, as a desktop and a web service although since the end of 2016 **the desktop version is no longer supported!**  
 
 Last release: https://github.com/BioTesseract/ONE/releases
 
