@@ -1,10 +1,10 @@
 # About BioTesseract™  
 
-The <b>BioTesseract™ </b> is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
+The **BioTesseract™ ** is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
 
 # BioTesseract™ ONE Desktop 
 
-The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by Dr Rafal Urniaz. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
+The **BioTesseract™ ONE** is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by **Dr Rafal Urniaz**. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
 
 # Main features
 * Small compounds, macromolecules and structure – ligand complexes visualization
@@ -18,7 +18,7 @@ The <b>BioTesseract™ ONE</b> is scientific software dedicated to structural bi
 
 # About repository
 
-This repository contains a source code of the <b>BioTesseract™ ONE </b>Desktop version. The software <b>was</b> distributed both, as a desktop and a web service although since the end of 2016 <b>the desktop version is no longer supported.</b>  
+This repository contains a source code of the **BioTesseract™ ONE **Desktop version. The software **was** distributed both, as a desktop and a web service although since the end of 2016 **the desktop version is no longer supported.**  
 
 Last release: https://github.com/BioTesseract/ONE/releases
 
