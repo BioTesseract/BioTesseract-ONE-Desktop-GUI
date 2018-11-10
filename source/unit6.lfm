@@ -1,27 +1,28 @@
 object Form5: TForm5
-  Left = 748
-  Height = 350
-  Top = 330
-  Width = 620
+  Left = 510
+  Height = 438
+  Top = 278
+  Width = 775
   AlphaBlend = True
   AutoSize = True
   BorderIcons = [biSystemMenu]
   BorderStyle = bsNone
   Caption = 'About program'
-  ClientHeight = 350
-  ClientWidth = 620
+  ClientHeight = 438
+  ClientWidth = 775
   Color = clWhite
+  DesignTimePPI = 120
   FormStyle = fsSplash
   OnCreate = FormCreate
   OnHide = FormHide
   OnShow = FormShow
   Position = poScreenCenter
-  LCLVersion = '1.4.4.0'
+  LCLVersion = '1.8.4.0'
   object Image1: TImage
     Left = 0
-    Height = 350
+    Height = 438
     Top = 0
-    Width = 620
+    Width = 775
     AntialiasingMode = amOn
     Align = alClient
     AutoSize = True
@@ -2111,19 +2112,21 @@ object Form5: TForm5
     Width = 81
     Align = alCustom
     AutoSize = True
-    BorderSpacing.Left = 5
-    BorderSpacing.Around = 3
+    BorderSpacing.Left = 6
+    BorderSpacing.Around = 4
     Caption = 'version 1.1.2'
     OnClick = StaticText1Click
+    ParentFont = False
     TabOrder = 0
   end
   object ProgressBar: TProgressBar
-    Left = 104
-    Height = 20
-    Top = 264
-    Width = 408
+    Left = 194
+    Height = 25
+    Top = 333
+    Width = 510
     Anchors = []
     BorderWidth = 1
+    ParentFont = False
     Smooth = True
     Step = 1
     TabOrder = 1
@@ -2135,12 +2138,12 @@ object Form5: TForm5
     Width = 408
     Align = alCustom
     Alignment = taCenter
-    BorderSpacing.Left = 5
-    BorderSpacing.Around = 3
+    BorderSpacing.Left = 6
+    BorderSpacing.Around = 4
     Caption = 'Loading,...'
     Font.CharSet = EASTEUROPE_CHARSET
     Font.Color = clBlack
-    Font.Height = -17
+    Font.Height = -21
     Font.Name = 'Arial Narrow'
     Font.Pitch = fpVariable
     Font.Quality = fqDraft
@@ -2152,7 +2155,7 @@ object Form5: TForm5
     Enabled = False
     Interval = 50
     OnTimer = HideTimerTimer
-    left = 32
-    top = 24
+    left = 40
+    top = 30
   end
 end

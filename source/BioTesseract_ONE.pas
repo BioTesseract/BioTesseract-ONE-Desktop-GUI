@@ -1,6 +1,6 @@
 (*
 Program name: BioTesseract™ ONE Desktop
-Version: 1.1.1 Build: 206
+Version: 1.4.900.670 pre-release Build: 670
 Authorship: The project was initially invented and developed by Dr Rafal Urniaz, actually it is developed by BioTesseract™ ONE community.
 Description: This file is a part of the BioTesseract™ ONE Desktop project, for details please visit http://www.biotesseract.com
 *)
@@ -24,6 +24,7 @@ var
   nr:integer= round(100 / 25);
 
 begin
+  Application.Scaled:=True;
   Application.Title:='BioTesseract™';
   Application.Initialize;
 
@@ -113,8 +114,9 @@ begin
 
   if Refresh3Ddraw() then
    begin
-     //Form5.BringToFront;
-    // Form5.HideTimer.Enabled:=true;  // tu ladowanie // i fade loadera !! :D
+     Form5.BringToFront;
+     Form5.HideTimer.Enabled:=true;  // tu ladowanie // i fade loadera !! :D
+     Form5.Hide;
    end;
 
   Mainform.Repaint;

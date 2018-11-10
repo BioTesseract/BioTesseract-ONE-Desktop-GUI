@@ -1,29 +1,30 @@
 object project_table_form: Tproject_table_form
   Left = 831
-  Height = 249
+  Height = 311
   Top = 447
-  Width = 724
+  Width = 905
   HorzScrollBar.Page = 579
   HorzScrollBar.Visible = False
   VertScrollBar.Page = 213
   VertScrollBar.Range = 30
   VertScrollBar.Visible = False
   Caption = 'Project table'
-  ClientHeight = 249
-  ClientWidth = 724
+  ClientHeight = 311
+  ClientWidth = 905
   Color = cl3DLight
+  DesignTimePPI = 120
   DragMode = dmAutomatic
   FormStyle = fsStayOnTop
   OnCreate = FormCreate
   OnKeyUp = FormKeyUp
   OnShow = FormShow
   ShowInTaskBar = stAlways
-  LCLVersion = '1.6.0.4'
+  LCLVersion = '1.8.4.0'
   object StringGrid1: TStringGrid
     Left = 0
-    Height = 191
-    Top = 30
-    Width = 724
+    Height = 244
+    Top = 38
+    Width = 905
     Align = alClient
     AlternateColor = clWhite
     AutoEdit = False
@@ -33,17 +34,19 @@ object project_table_form: Tproject_table_form
     Columns = <    
       item
         Alignment = taCenter
+        MinSize = 12
+        MaxSize = 250
         ReadOnly = True
         Title.Alignment = taCenter
         Title.Caption = 'No.'
-        Width = 50
+        Width = 62
       end    
       item
         Alignment = taCenter
         ButtonStyle = cbsCheckboxColumn
         DropDownRows = 0
-        MinSize = 30
-        MaxSize = 100
+        MinSize = 38
+        MaxSize = 125
         Title.Alignment = taCenter
         Title.Caption = 'Vis.'
         Width = 0
@@ -52,44 +55,55 @@ object project_table_form: Tproject_table_form
       item
         Alignment = taCenter
         ButtonStyle = cbsCheckboxColumn
-        MinSize = 30
-        MaxSize = 100
+        MinSize = 38
+        MaxSize = 125
         Title.Alignment = taCenter
         Title.Caption = 'Inc.'
-        Width = 30
+        Width = 38
       end    
       item
         Alignment = taCenter
+        MinSize = 12
+        MaxSize = 250
         ReadOnly = True
         Title.Alignment = taCenter
         Title.Caption = 'Name'
-        Width = 160
+        Width = 200
       end    
       item
         Alignment = taCenter
+        MinSize = 12
+        MaxSize = 250
         ReadOnly = True
         Title.Alignment = taCenter
         Title.Caption = 'Type'
-        Width = 40
+        Width = 50
       end    
       item
         Alignment = taCenter
+        MinSize = 12
+        MaxSize = 250
         ReadOnly = True
         Title.Alignment = taCenter
         Title.Caption = 'Original file'
-        Width = 160
+        Width = 200
       end    
       item
+        MinSize = 12
+        MaxSize = 250
         Title.Caption = 'Comments'
-        Width = 220
+        Width = 275
       end    
       item
+        MinSize = 12
+        MaxSize = 250
         Title.Caption = 'Vis_type'
       end>
     FixedColor = clNone
     FixedCols = 0
     Flat = True
     Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goDrawFocusSelected, goColSizing, goEditing, goColSpanning, goDblClickAutoSize, goSmoothScroll]
+    ParentFont = False
     RowCount = 1
     ScrollBars = ssAutoVertical
     TabOrder = 1
@@ -103,17 +117,18 @@ object project_table_form: Tproject_table_form
   end
   object ToolBar1: TToolBar
     Left = 0
-    Height = 30
+    Height = 38
     Top = 0
-    Width = 724
-    ButtonHeight = 25
-    ButtonWidth = 25
+    Width = 905
+    ButtonHeight = 31
+    ButtonWidth = 31
     Caption = 'ToolBar1'
     Color = clMenuBar
     EdgeBorders = [ebBottom]
     Images = ImageList1
     Indent = 3
     ParentColor = False
+    ParentFont = False
     PopupMenu = PopupMenu1
     TabOrder = 0
     OnClick = ToolBar1Click
@@ -125,122 +140,118 @@ object project_table_form: Tproject_table_form
       OnClick = ToolButton1Click
     end
     object ToolButton2: TToolButton
-      Left = 28
+      Left = 34
       Top = 0
       Caption = 'ToolButton2'
       ImageIndex = 2
       OnClick = ToolButton2Click
     end
     object ToolButton3: TToolButton
-      Left = 53
+      Left = 65
       Top = 0
       Caption = 'ToolButton3'
       ImageIndex = 1
       OnClick = ToolButton3Click
     end
     object ToolButton4: TToolButton
-      Left = 78
-      Height = 25
+      Left = 96
+      Height = 31
       Top = 0
-      Width = 5
       Caption = 'ToolButton4'
       Style = tbsDivider
     end
     object ToolButton5: TToolButton
-      Left = 138
+      Left = 170
       Top = 0
       Caption = 'ToolButton5'
       ImageIndex = 5
     end
     object ToolButton6: TToolButton
-      Left = 83
+      Left = 102
       Top = 0
       Caption = 'ToolButton6'
       DropdownMenu = MainForm.PopupMenu4
       ImageIndex = 3
     end
     object ToolButton7: TToolButton
-      Left = 108
+      Left = 133
       Top = 0
       Caption = 'ToolButton7'
       DropdownMenu = MainForm.PopupMenu3
       ImageIndex = 4
     end
     object ToolButton8: TToolButton
-      Left = 133
-      Height = 25
+      Left = 164
+      Height = 31
       Top = 0
-      Width = 5
       Caption = 'ToolButton8'
       Style = tbsDivider
     end
     object ToolButton9: TToolButton
-      Left = 163
-      Height = 25
+      Left = 201
+      Height = 31
       Top = 0
-      Width = 5
       Caption = 'ToolButton9'
       Style = tbsDivider
     end
     object ToolButton10: TToolButton
-      Left = 373
+      Left = 461
       Top = 0
       ImageIndex = 14
       OnClick = ToolButton10Click
       Style = tbsCheck
     end
     object ToolButton11: TToolButton
-      Left = 168
+      Left = 207
       Top = 0
       Caption = 'ToolButton11'
       ImageIndex = 7
       OnClick = ToolButton11Click
     end
     object ToolButton12: TToolButton
-      Left = 293
-      Height = 25
+      Left = 362
+      Height = 31
       Top = 0
-      Width = 5
       Caption = 'ToolButton12'
       Style = tbsDivider
     end
     object ToolButton13: TToolButton
-      Left = 218
+      Left = 269
       Top = 0
       Caption = 'ToolButton13'
       ImageIndex = 8
       OnClick = ToolButton13Click
     end
     object ToolButton15: TToolButton
-      Left = 243
+      Left = 300
       Top = 0
       Caption = 'ToolButton15'
       ImageIndex = 9
       OnClick = ToolButton15Click
     end
     object ToolButton16: TToolButton
-      Left = 398
+      Left = 492
       Top = 0
       Caption = 'ToolButton16'
       ImageIndex = 10
       OnClick = ToolButton16Click
     end
     object ToolButton19: TToolButton
-      Left = 348
+      Left = 430
       Top = 0
       Caption = 'ToolButton19'
       ImageIndex = 13
       OnClick = ToolButton19Click
     end
     object ToolButton20: TToolButton
-      Left = 298
+      Left = 368
       Top = 0
       Caption = 'ToolButton20'
       ImageIndex = 15
       OnClick = ToolButton20Click
     end
     object ToolButton21: TToolButton
-      Left = 323
+      Left = 399
       Top = 0
       Caption = 'split file by ...'
       DropdownMenu = PopupMenu1
@@ -248,28 +259,28 @@ object project_table_form: Tproject_table_form
       OnClick = ToolButton21Click
     end
     object ToolButton22: TToolButton
-      Left = 268
+      Left = 331
       Top = 0
       Caption = 'Renumber atoms number'
       ImageIndex = 18
       OnClick = ToolButton22Click
     end
     object ToolButton23: TToolButton
-      Left = 193
+      Left = 238
       Top = 0
       Caption = 'ToolButton23'
       ImageIndex = 29
       OnClick = ToolButton23Click
     end
     object ToolButton17: TToolButton
-      Left = 423
+      Left = 523
       Top = 0
       Caption = '<'
       ImageIndex = 30
       OnClick = ToolButton17Click
     end
     object ToolButton18: TToolButton
-      Left = 448
+      Left = 554
       Top = 0
       Caption = '>'
       ImageIndex = 31
@@ -278,16 +289,17 @@ object project_table_form: Tproject_table_form
   end
   object StatusBar1: TStatusBar
     Left = 0
-    Height = 28
-    Top = 221
-    Width = 724
+    Height = 29
+    Top = 282
+    Width = 905
     Color = clMenuBar
     Panels = <>
     ParentColor = False
+    ParentFont = False
   end
   object PopupMenu1: TPopupMenu
-    left = 296
-    top = 64
+    left = 370
+    top = 80
     object MenuItem1: TMenuItem
       Caption = 'Separate by Residue name'
       OnClick = MenuItem1Click
@@ -299,8 +311,8 @@ object project_table_form: Tproject_table_form
   end
   object ImageList1: TImageList
     ShareImages = True
-    left = 416
-    top = 108
+    left = 520
+    top = 135
     Bitmap = {
       4C69280000001000000010000000B88241B2B88241FFB78240FFB67F3DFFB57E
       3CFFB57E3BFFB57E3BFFB57E3BFFB57E3BFFB57E3BFFB57E3CFFB7803EFFB882

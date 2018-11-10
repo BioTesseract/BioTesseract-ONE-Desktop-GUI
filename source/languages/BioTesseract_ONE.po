@@ -1,0 +1,2957 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform5.caption
+msgid "About program"
+msgstr ""
+
+#: tform5.statictext1.caption
+msgid "version 1.1.2"
+msgstr ""
+
+#: tform5.statictext2.caption
+msgid "Loading,..."
+msgstr ""
+
+#: tivm.caption
+msgid "InterView_MV (c)"
+msgstr ""
+
+#: tivm.label1.caption
+msgid "."
+msgstr ""
+
+#: tivm.menuitem1.caption
+msgctxt "tivm.menuitem1.caption"
+msgid "Atom serial number"
+msgstr ""
+
+#: tivm.menuitem10.caption
+msgctxt "tivm.menuitem10.caption"
+msgid "Z coordinate"
+msgstr ""
+
+#: tivm.menuitem11.caption
+msgctxt "tivm.menuitem11.caption"
+msgid "Element symbol"
+msgstr ""
+
+#: tivm.menuitem12.caption
+msgctxt "tivm.menuitem12.caption"
+msgid "Temperature factor"
+msgstr ""
+
+#: tivm.menuitem13.caption
+msgctxt "tivm.menuitem13.caption"
+msgid "Occupancy"
+msgstr ""
+
+#: tivm.menuitem14.caption
+msgid "Analysis"
+msgstr ""
+
+#: tivm.menuitem15.caption
+msgctxt "tivm.menuitem15.caption"
+msgid "Charge on the atom"
+msgstr ""
+
+#: tivm.menuitem16.caption
+msgid "Label settings"
+msgstr ""
+
+#: tivm.menuitem17.caption
+msgid "Protein"
+msgstr ""
+
+#: tivm.menuitem18.caption
+msgctxt "tivm.menuitem18.caption"
+msgid "None"
+msgstr ""
+
+#: tivm.menuitem19.caption
+msgctxt "tivm.menuitem19.caption"
+msgid "None"
+msgstr ""
+
+#: tivm.menuitem2.caption
+msgctxt "tivm.menuitem2.caption"
+msgid "Atom name"
+msgstr ""
+
+#: tivm.menuitem20.caption
+msgctxt "tivm.menuitem20.caption"
+msgid "None"
+msgstr ""
+
+#: tivm.menuitem21.caption
+msgctxt "tivm.menuitem21.caption"
+msgid "Atom serial number"
+msgstr ""
+
+#: tivm.menuitem22.caption
+msgctxt "tivm.menuitem22.caption"
+msgid "Atom serial number"
+msgstr ""
+
+#: tivm.menuitem23.caption
+msgctxt "tivm.menuitem23.caption"
+msgid "Atom name"
+msgstr ""
+
+#: tivm.menuitem24.caption
+msgctxt "tivm.menuitem24.caption"
+msgid "Alternate location indicator"
+msgstr ""
+
+#: tivm.menuitem25.caption
+msgctxt "tivm.menuitem25.caption"
+msgid "Alternate location indicator"
+msgstr ""
+
+#: tivm.menuitem26.caption
+msgctxt "tivm.menuitem26.caption"
+msgid "Residue name"
+msgstr ""
+
+#: tivm.menuitem27.caption
+msgctxt "tivm.menuitem27.caption"
+msgid "Residue name"
+msgstr ""
+
+#: tivm.menuitem28.caption
+msgctxt "tivm.menuitem28.caption"
+msgid "Chain identifier"
+msgstr ""
+
+#: tivm.menuitem29.caption
+msgctxt "tivm.menuitem29.caption"
+msgid "Chain identifier"
+msgstr ""
+
+#: tivm.menuitem3.caption
+msgid "Ligand"
+msgstr ""
+
+#: tivm.menuitem30.caption
+msgctxt "tivm.menuitem30.caption"
+msgid "Residue sequence number"
+msgstr ""
+
+#: tivm.menuitem31.caption
+msgctxt "tivm.menuitem31.caption"
+msgid "Residue sequence number"
+msgstr ""
+
+#: tivm.menuitem32.caption
+msgctxt "tivm.menuitem32.caption"
+msgid "X coordinate"
+msgstr ""
+
+#: tivm.menuitem33.caption
+msgctxt "tivm.menuitem33.caption"
+msgid "X coordinate"
+msgstr ""
+
+#: tivm.menuitem34.caption
+msgctxt "tivm.menuitem34.caption"
+msgid "Y coordinate"
+msgstr ""
+
+#: tivm.menuitem35.caption
+msgctxt "tivm.menuitem35.caption"
+msgid "Y coordinate"
+msgstr ""
+
+#: tivm.menuitem36.caption
+msgctxt "tivm.menuitem36.caption"
+msgid "Z coordinate"
+msgstr ""
+
+#: tivm.menuitem37.caption
+msgctxt "tivm.menuitem37.caption"
+msgid "Z coordinate"
+msgstr ""
+
+#: tivm.menuitem38.caption
+msgctxt "tivm.menuitem38.caption"
+msgid "Occupancy"
+msgstr ""
+
+#: tivm.menuitem39.caption
+msgid "Analysis results"
+msgstr ""
+
+#: tivm.menuitem4.caption
+msgctxt "tivm.menuitem4.caption"
+msgid "Chain identifier"
+msgstr ""
+
+#: tivm.menuitem40.caption
+msgctxt "tivm.menuitem40.caption"
+msgid "Temperature factor"
+msgstr ""
+
+#: tivm.menuitem41.caption
+msgctxt "tivm.menuitem41.caption"
+msgid "Temperature factor"
+msgstr ""
+
+#: tivm.menuitem42.caption
+msgctxt "tivm.menuitem42.caption"
+msgid "Element symbol"
+msgstr ""
+
+#: tivm.menuitem43.caption
+msgctxt "tivm.menuitem43.caption"
+msgid "Element symbol"
+msgstr ""
+
+#: tivm.menuitem44.caption
+msgctxt "tivm.menuitem44.caption"
+msgid "Charge on the atom"
+msgstr ""
+
+#: tivm.menuitem45.caption
+msgctxt "tivm.menuitem45.caption"
+msgid "Charge on the atom"
+msgstr ""
+
+#: tivm.menuitem46.caption
+msgid "Center and scale to the screen"
+msgstr ""
+
+#: tivm.menuitem5.caption
+msgctxt "tivm.menuitem5.caption"
+msgid "Alternate location indicator"
+msgstr ""
+
+#: tivm.menuitem6.caption
+msgctxt "tivm.menuitem6.caption"
+msgid "Residue name"
+msgstr ""
+
+#: tivm.menuitem7.caption
+msgctxt "tivm.menuitem7.caption"
+msgid "Y coordinate"
+msgstr ""
+
+#: tivm.menuitem8.caption
+msgctxt "tivm.menuitem8.caption"
+msgid "Residue sequence number"
+msgstr ""
+
+#: tivm.menuitem9.caption
+msgctxt "tivm.menuitem9.caption"
+msgid "X coordinate"
+msgstr ""
+
+#: tivm.objetslist.columns[0].title.caption
+msgid "ID"
+msgstr ""
+
+#: tivm.objetslist.columns[1].title.caption
+msgctxt "tivm.objetslist.columns[1].title.caption"
+msgid "Inc."
+msgstr ""
+
+#: tivm.objetslist.columns[2].title.caption
+msgctxt "tivm.objetslist.columns[2].title.caption"
+msgid "Name"
+msgstr ""
+
+#: tivm.objetslist.columns[3].title.caption
+msgctxt "tivm.objetslist.columns[3].title.caption"
+msgid "Type"
+msgstr ""
+
+#: tivm.objetslist.columns[4].title.caption
+msgid "Org_file_name"
+msgstr ""
+
+#: tivm.objetslist.columns[5].title.caption
+msgid "comment"
+msgstr ""
+
+#: tivm.objetslist.columns[6].title.caption
+msgid "Vis_Type"
+msgstr ""
+
+#: tivm.panel1.caption
+msgid "Panel1"
+msgstr ""
+
+#: tivm.statictext1.caption
+msgid "Objects"
+msgstr ""
+
+#: tivm.statictext2.caption
+msgid "Properties"
+msgstr ""
+
+#: tivm.stringgrid1.columns[0].title.caption
+msgid "Property"
+msgstr ""
+
+#: tivm.stringgrid1.columns[1].title.caption
+msgid "Value"
+msgstr ""
+
+#: tivm.toolbar2.caption
+msgid "ToolBar2"
+msgstr ""
+
+#: tivm.toolbar3.caption
+msgid "ToolBar3"
+msgstr ""
+
+#: tivm.toolbar4.caption
+msgid "ToolBar4"
+msgstr ""
+
+#: tivm.toolbar5.caption
+msgid "ToolBar5"
+msgstr ""
+
+#: tivm.toolbutton1.caption
+msgctxt "tivm.toolbutton1.caption"
+msgid "Center"
+msgstr ""
+
+#: tivm.toolbutton1.hint
+msgctxt "tivm.toolbutton1.hint"
+msgid "Center"
+msgstr ""
+
+#: tivm.toolbutton10.caption
+msgid "Rotation"
+msgstr ""
+
+#: tivm.toolbutton11.caption
+msgctxt "tivm.toolbutton11.caption"
+msgid "ToolButton11"
+msgstr ""
+
+#: tivm.toolbutton12.caption
+msgctxt "tivm.toolbutton12.caption"
+msgid "ToolButton12"
+msgstr ""
+
+#: tivm.toolbutton13.caption
+msgctxt "tivm.toolbutton13.caption"
+msgid "ToolButton13"
+msgstr ""
+
+#: tivm.toolbutton14.caption
+msgid "ToolButton14"
+msgstr ""
+
+#: tivm.toolbutton15.caption
+msgctxt "tivm.toolbutton15.caption"
+msgid "ToolButton15"
+msgstr ""
+
+#: tivm.toolbutton16.caption
+msgctxt "tivm.toolbutton16.caption"
+msgid "ToolButton16"
+msgstr ""
+
+#: tivm.toolbutton17.caption
+msgid "ToolButton17"
+msgstr ""
+
+#: tivm.toolbutton18.caption
+msgid "ToolButton18"
+msgstr ""
+
+#: tivm.toolbutton19.caption
+msgctxt "tivm.toolbutton19.caption"
+msgid "ToolButton19"
+msgstr ""
+
+#: tivm.toolbutton2.caption
+msgid "Refresh"
+msgstr ""
+
+#: tivm.toolbutton20.caption
+msgctxt "tivm.toolbutton20.caption"
+msgid "ToolButton20"
+msgstr ""
+
+#: tivm.toolbutton21.caption
+msgid "ToolButton21"
+msgstr ""
+
+#: tivm.toolbutton22.caption
+msgid "ToolButton22"
+msgstr ""
+
+#: tivm.toolbutton23.caption
+msgctxt "tivm.toolbutton23.caption"
+msgid "ToolButton23"
+msgstr ""
+
+#: tivm.toolbutton24.caption
+msgid "ToolButton24"
+msgstr ""
+
+#: tivm.toolbutton25.caption
+msgid "ToolButton25"
+msgstr ""
+
+#: tivm.toolbutton26.caption
+msgid "ToolButton26"
+msgstr ""
+
+#: tivm.toolbutton27.caption
+msgid "ToolButton27"
+msgstr ""
+
+#: tivm.toolbutton28.caption
+msgctxt "tivm.toolbutton28.caption"
+msgid "ToolButton28"
+msgstr ""
+
+#: tivm.toolbutton29.caption
+msgctxt "tivm.toolbutton29.caption"
+msgid "ToolButton29"
+msgstr ""
+
+#: tivm.toolbutton3.caption
+msgid "Show axes"
+msgstr ""
+
+#: tivm.toolbutton4.caption
+msgid "Full screan"
+msgstr ""
+
+#: tivm.toolbutton42.caption
+msgctxt "tivm.toolbutton42.caption"
+msgid "ToolButton28"
+msgstr ""
+
+#: tivm.toolbutton43.caption
+msgctxt "tivm.toolbutton43.caption"
+msgid "ToolButton29"
+msgstr ""
+
+#: tivm.toolbutton44.caption
+msgid "ToolButton30"
+msgstr ""
+
+#: tivm.toolbutton45.caption
+msgid "ToolButton31"
+msgstr ""
+
+#: tivm.toolbutton46.caption
+msgid "ToolButton32"
+msgstr ""
+
+#: tivm.toolbutton47.caption
+msgid "ToolButton33"
+msgstr ""
+
+#: tivm.toolbutton48.caption
+msgid "ToolButton34"
+msgstr ""
+
+#: tivm.toolbutton49.caption
+msgid "ToolButton35"
+msgstr ""
+
+#: tivm.toolbutton5.caption
+msgid "capture image"
+msgstr ""
+
+#: tivm.toolbutton6.caption
+msgid "Stop"
+msgstr ""
+
+#: tivm.toolbutton7.caption
+msgctxt "tivm.toolbutton7.caption"
+msgid "ToolButton7"
+msgstr ""
+
+#: tivm.toolbutton8.caption
+msgctxt "tivm.toolbutton8.caption"
+msgid "ToolButton8"
+msgstr ""
+
+#: tivm.toolbutton9.caption
+msgctxt "tivm.toolbutton9.caption"
+msgid "ToolButton9"
+msgstr ""
+
+#: tproject_table_form.caption
+msgid "Project table"
+msgstr ""
+
+#: tproject_table_form.menuitem1.caption
+msgid "Separate by Residue name"
+msgstr ""
+
+#: tproject_table_form.menuitem2.caption
+msgid "Separate by Residue sequence number"
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[0].title.caption
+msgid "No."
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[1].title.caption
+msgid "Vis."
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[2].title.caption
+msgctxt "tproject_table_form.stringgrid1.columns[2].title.caption"
+msgid "Inc."
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[3].title.caption
+msgctxt "tproject_table_form.stringgrid1.columns[3].title.caption"
+msgid "Name"
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[4].title.caption
+msgctxt "tproject_table_form.stringgrid1.columns[4].title.caption"
+msgid "Type"
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[5].title.caption
+msgid "Original file"
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[6].title.caption
+msgid "Comments"
+msgstr ""
+
+#: tproject_table_form.stringgrid1.columns[7].title.caption
+msgid "Vis_type"
+msgstr ""
+
+#: tproject_table_form.toolbar1.caption
+msgid "ToolBar1"
+msgstr ""
+
+#: tproject_table_form.toolbutton1.caption
+msgid "ToolButton1"
+msgstr ""
+
+#: tproject_table_form.toolbutton11.caption
+msgctxt "tproject_table_form.toolbutton11.caption"
+msgid "ToolButton11"
+msgstr ""
+
+#: tproject_table_form.toolbutton12.caption
+msgctxt "tproject_table_form.toolbutton12.caption"
+msgid "ToolButton12"
+msgstr ""
+
+#: tproject_table_form.toolbutton13.caption
+msgctxt "tproject_table_form.toolbutton13.caption"
+msgid "ToolButton13"
+msgstr ""
+
+#: tproject_table_form.toolbutton15.caption
+msgctxt "tproject_table_form.toolbutton15.caption"
+msgid "ToolButton15"
+msgstr ""
+
+#: tproject_table_form.toolbutton16.caption
+msgctxt "tproject_table_form.toolbutton16.caption"
+msgid "ToolButton16"
+msgstr ""
+
+#: tproject_table_form.toolbutton17.caption
+msgid "<"
+msgstr ""
+
+#: tproject_table_form.toolbutton18.caption
+msgid ">"
+msgstr ""
+
+#: tproject_table_form.toolbutton19.caption
+msgctxt "tproject_table_form.toolbutton19.caption"
+msgid "ToolButton19"
+msgstr ""
+
+#: tproject_table_form.toolbutton2.caption
+msgid "ToolButton2"
+msgstr ""
+
+#: tproject_table_form.toolbutton20.caption
+msgctxt "tproject_table_form.toolbutton20.caption"
+msgid "ToolButton20"
+msgstr ""
+
+#: tproject_table_form.toolbutton21.caption
+msgid "split file by ..."
+msgstr ""
+
+#: tproject_table_form.toolbutton22.caption
+msgid "Renumber atoms number"
+msgstr ""
+
+#: tproject_table_form.toolbutton23.caption
+msgctxt "tproject_table_form.toolbutton23.caption"
+msgid "ToolButton23"
+msgstr ""
+
+#: tproject_table_form.toolbutton3.caption
+msgid "ToolButton3"
+msgstr ""
+
+#: tproject_table_form.toolbutton4.caption
+msgid "ToolButton4"
+msgstr ""
+
+#: tproject_table_form.toolbutton5.caption
+msgid "ToolButton5"
+msgstr ""
+
+#: tproject_table_form.toolbutton6.caption
+msgid "ToolButton6"
+msgstr ""
+
+#: tproject_table_form.toolbutton7.caption
+msgctxt "tproject_table_form.toolbutton7.caption"
+msgid "ToolButton7"
+msgstr ""
+
+#: tproject_table_form.toolbutton8.caption
+msgctxt "tproject_table_form.toolbutton8.caption"
+msgid "ToolButton8"
+msgstr ""
+
+#: tproject_table_form.toolbutton9.caption
+msgctxt "tproject_table_form.toolbutton9.caption"
+msgid "ToolButton9"
+msgstr ""
+
+#: tsettings.caption
+msgid "Settings"
+msgstr ""
+
+#: tsettings.checkbox1.caption
+msgid "Wire sphere"
+msgstr ""
+
+#: tsettings.checkbox12.caption
+msgid "Visible X"
+msgstr ""
+
+#: tsettings.checkbox13.caption
+msgid "Visible Y"
+msgstr ""
+
+#: tsettings.checkbox14.caption
+msgid "Visible Z"
+msgstr ""
+
+#: tsettings.checkbox15.caption
+msgctxt "tsettings.checkbox15.caption"
+msgid "Visible scale"
+msgstr ""
+
+#: tsettings.checkbox16.caption
+msgctxt "tsettings.checkbox16.caption"
+msgid "Visible scale"
+msgstr ""
+
+#: tsettings.checkbox17.caption
+msgctxt "tsettings.checkbox17.caption"
+msgid "Visible scale"
+msgstr ""
+
+#: tsettings.checkbox18.caption
+msgid "Show captions in menu"
+msgstr ""
+
+#: tsettings.checkbox2.caption
+msgid "Solid sphere"
+msgstr ""
+
+#: tsettings.checkbox20.caption
+msgid "Show warning before changing the coordinate system"
+msgstr ""
+
+#: tsettings.checkbox21.caption
+msgid "Solid Cube"
+msgstr ""
+
+#: tsettings.checkbox22.caption
+msgid "Wire Cube"
+msgstr ""
+
+#: tsettings.combobox2.text
+msgid "on"
+msgstr ""
+
+#: tsettings.combobox3.text
+msgid "Default"
+msgstr ""
+
+#: tsettings.groupbox12.caption
+msgid "   APD-RMSD analysis visualization   "
+msgstr ""
+
+#: tsettings.groupbox5.caption
+msgid "   Bonds and Atoms   "
+msgstr ""
+
+#: tsettings.groupbox7.caption
+msgid "  Axes  "
+msgstr ""
+
+#: tsettings.groupbox8.caption
+msgid "  Lighting  "
+msgstr ""
+
+#: tsettings.label1.caption
+msgid "Array :"
+msgstr ""
+
+#: tsettings.label14.caption
+msgid "Default directory : "
+msgstr ""
+
+#: tsettings.label16.caption
+msgctxt "tsettings.label16.caption"
+msgid "+X"
+msgstr ""
+
+#: tsettings.label17.caption
+msgctxt "tsettings.label17.caption"
+msgid " -X"
+msgstr ""
+
+#: tsettings.label18.caption
+msgctxt "tsettings.label18.caption"
+msgid "Thickness"
+msgstr ""
+
+#: tsettings.label19.caption
+msgid "+Y"
+msgstr ""
+
+#: tsettings.label20.caption
+msgid " -Y"
+msgstr ""
+
+#: tsettings.label21.caption
+msgctxt "tsettings.label21.caption"
+msgid "Thickness"
+msgstr ""
+
+#: tsettings.label22.caption
+msgctxt "tsettings.label22.caption"
+msgid "+X"
+msgstr ""
+
+#: tsettings.label23.caption
+msgctxt "tsettings.label23.caption"
+msgid " -X"
+msgstr ""
+
+#: tsettings.label24.caption
+msgid "Background color :"
+msgstr ""
+
+#: tsettings.label26.caption
+msgid "Bound  thickness :"
+msgstr ""
+
+#: tsettings.label27.caption
+msgid "Auto-rotation interval [mSek] :"
+msgstr ""
+
+#: tsettings.label28.caption
+msgid "Lighting model :"
+msgstr ""
+
+#: tsettings.label3.caption
+msgctxt "tsettings.label3.caption"
+msgid "Thickness"
+msgstr ""
+
+#: tsettings.label4.caption
+msgid "Light color :"
+msgstr ""
+
+#: tsettings.label5.caption
+msgid "Position :"
+msgstr ""
+
+#: tsettings.labelededit1.editlabel.caption
+msgid "Coefficient of proportionality : "
+msgstr ""
+
+#: tsettings.labelededit1.text
+msgid "1"
+msgstr ""
+
+#: tsettings.labelededit2.editlabel.caption
+msgid "Atom transparency : "
+msgstr ""
+
+#: tsettings.labelededit2.text
+msgid "0"
+msgstr ""
+
+#: tsettings.labelededit3.editlabel.caption
+msgid "Host name"
+msgstr ""
+
+#: tsettings.labelededit3.text
+msgid "ui.grid.cyfronet.pl"
+msgstr ""
+
+#: tsettings.labelededit4.editlabel.caption
+msgid "Username "
+msgstr ""
+
+#: tsettings.labelededit5.editlabel.caption
+msgid "Default text file editor : "
+msgstr ""
+
+#: tsettings.labelededit5.text
+msgid "C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
+msgstr ""
+
+#: tsettings.labelededit6.editlabel.caption
+msgid "Default Python parser : "
+msgstr ""
+
+#: tsettings.labelededit6.text
+msgid "C:\\Program Files (x86)\\Python35-32\\python.exe"
+msgstr ""
+
+#: tsettings.labelededit7.editlabel.caption
+msgid "Default Perl parser : "
+msgstr ""
+
+#: tsettings.speedbutton11.caption
+msgid "Header"
+msgstr ""
+
+#: tsettings.speedbutton12.caption
+msgid "Assign file extension *.proj4g to Grow_4"
+msgstr ""
+
+#: tsettings.speedbutton3.caption
+msgid "Save"
+msgstr ""
+
+#: tsettings.speedbutton6.caption
+msgctxt "tsettings.speedbutton6.caption"
+msgid "+"
+msgstr ""
+
+#: tsettings.speedbutton7.caption
+msgctxt "tsettings.speedbutton7.caption"
+msgid "-"
+msgstr ""
+
+#: tsettings.speedbutton8.caption
+msgctxt "tsettings.speedbutton8.caption"
+msgid "-"
+msgstr ""
+
+#: tsettings.speedbutton9.caption
+msgctxt "tsettings.speedbutton9.caption"
+msgid "+"
+msgstr ""
+
+#: tsettings.statictext1.caption
+msgid "     X                   Y                  Z "
+msgstr ""
+
+#: tsettings.statictext2.caption
+msgid "auto-position variants"
+msgstr ""
+
+#: tsettings.tabsheet1.caption
+msgid "General"
+msgstr ""
+
+#: tsettings.tabsheet2.caption
+msgid "Graphics"
+msgstr ""
+
+#: tsettings.tabsheet3.caption
+msgid "Remote server"
+msgstr ""
+
+#: tsettings.tabsheet4.caption
+msgid "Models"
+msgstr ""
+
+#: tsettings.tabsheet6.caption
+msgid "Scientific arrays"
+msgstr ""
+
+#: unit1.com1
+msgctxt "unit1.com1"
+msgid "Incorrect directory or filename, check it or change the project`s name"
+msgstr ""
+
+#: unit1.com10
+msgctxt "unit1.com10"
+msgid "Invalide range of data"
+msgstr ""
+
+#: unit1.com100
+msgctxt "unit1.com100"
+msgid "2<>Not enough atoms selected for the analysis, minimum value is 3 atoms"
+msgstr ""
+
+#: unit1.com101
+msgctxt "unit1.com101"
+msgid "2<>Not enough molecules selected for the analysis, minimum value is 1 molecule"
+msgstr ""
+
+#: unit1.com102
+msgctxt "unit1.com102"
+msgid "Do you want to split current table?"
+msgstr ""
+
+#: unit1.com103
+msgctxt "unit1.com103"
+msgid "1<>Please include only one table to seperation"
+msgstr ""
+
+#: unit1.com104
+msgctxt "unit1.com104"
+msgid "1<>Incorrect input data, at least one value omitted!"
+msgstr ""
+
+#: unit1.com105
+msgctxt "unit1.com105"
+msgid "0<>Rows were replaced : "
+msgstr ""
+
+#: unit1.com106
+msgctxt "unit1.com106"
+msgid "2<>Not enough rows selected, select exactly 2 rows to replacement"
+msgstr ""
+
+#: unit1.com107
+msgctxt "unit1.com107"
+msgid "Renumber all of the atoms?"
+msgstr ""
+
+#: unit1.com108
+msgctxt "unit1.com108"
+msgid "2<>Not enough atoms selected for the analysis, minimum value is 2 atoms"
+msgstr ""
+
+#: unit1.com109
+msgctxt "unit1.com109"
+msgid "2<>Command line syntax error!"
+msgstr ""
+
+#: unit1.com11
+msgctxt "unit1.com11"
+msgid "Start procedure with \"=\""
+msgstr ""
+
+#: unit1.com110
+msgctxt "unit1.com110"
+msgid "1<>Overlay plane not selected!"
+msgstr ""
+
+#: unit1.com111
+msgctxt "unit1.com111"
+msgid "Number of atoms"
+msgstr ""
+
+#: unit1.com112
+msgctxt "unit1.com112"
+msgid "The molecules contain a different number of atoms : "
+msgstr ""
+
+#: unit1.com113
+msgctxt "unit1.com113"
+msgid "Number of inc. atoms"
+msgstr ""
+
+#: unit1.com114
+msgctxt "unit1.com114"
+msgid "1<>Please include only one record to move"
+msgstr ""
+
+#: unit1.com115
+msgctxt "unit1.com115"
+msgid "2<>Some problems occurred"
+msgstr ""
+
+#: unit1.com116
+msgctxt "unit1.com116"
+msgid "2<>Atoms in residues are not in correct order. Sequences are different or residue names are not presented."
+msgstr ""
+
+#: unit1.com117
+msgctxt "unit1.com117"
+msgid "Atom coordinates will become the beginning of a new coordinate system, all values will be converted automatically, continue? If \"Yes\", the default value will be marked as \"no alerts before coordinate system changing\", no notifications will facilitate the work in GROW_4 environment, but if You need the native coordinate system press \"No\""
+msgstr ""
+
+#: unit1.com118
+msgctxt "unit1.com118"
+msgid "Is first record containing a headers?"
+msgstr ""
+
+#: unit1.com119
+msgctxt "unit1.com119"
+msgid "Is first column containing a headers?"
+msgstr ""
+
+#: unit1.com12
+msgctxt "unit1.com12"
+msgid "File not exists"
+msgstr ""
+
+#: unit1.com120
+msgctxt "unit1.com120"
+msgid "Please insert a sign of separation:"
+msgstr ""
+
+#: unit1.com121
+msgctxt "unit1.com121"
+msgid "1<>Lists contain different number of cases"
+msgstr ""
+
+#: unit1.com122
+msgctxt "unit1.com122"
+msgid "adequacy :"
+msgstr ""
+
+#: unit1.com123
+msgctxt "unit1.com123"
+msgid "Number of components:"
+msgstr ""
+
+#: unit1.com124
+msgctxt "unit1.com124"
+msgid "CoA :"
+msgstr ""
+
+#: unit1.com125
+msgctxt "unit1.com125"
+msgid "Percent of CoA [PCoA] :"
+msgstr ""
+
+#: unit1.com126
+msgctxt "unit1.com126"
+msgid "Average CoA [aCoA] :"
+msgstr ""
+
+#: unit1.com127
+msgctxt "unit1.com127"
+msgid "CoA 50% :"
+msgstr ""
+
+#: unit1.com128
+msgctxt "unit1.com128"
+msgid "CoA 100% :"
+msgstr ""
+
+#: unit1.com129
+msgctxt "unit1.com129"
+msgid "Q2 QSAR :"
+msgstr ""
+
+#: unit1.com13
+msgctxt "unit1.com13"
+msgid "Can not create a table"
+msgstr ""
+
+#: unit1.com130
+msgctxt "unit1.com130"
+msgid "1<>Syntax error: Atom cannot be rendered:"
+msgstr ""
+
+#: unit1.com131
+msgctxt "unit1.com131"
+msgid "0<>Rendered correctly"
+msgstr ""
+
+#: unit1.com132
+msgctxt "unit1.com132"
+msgid "Undefined value : "
+msgstr ""
+
+#: unit1.com133
+msgctxt "unit1.com133"
+msgid "Error creating graphics"
+msgstr ""
+
+#: unit1.com134
+msgctxt "unit1.com134"
+msgid "Atom list failed during preparation"
+msgstr ""
+
+#: unit1.com135
+msgctxt "unit1.com135"
+msgid "Error: Command cannot be completed, syntax error"
+msgstr ""
+
+#: unit1.com136
+msgctxt "unit1.com136"
+msgid "Please, enter the number of the diagonal to be copied. Range: "
+msgstr ""
+
+#: unit1.com137
+msgctxt "unit1.com137"
+msgid "1<>Entered value is not a number or is located outside the range."
+msgstr ""
+
+#: unit1.com138
+msgctxt "unit1.com138"
+msgid "2<>Some problems occurred during the procedure and cannot be completed, please report the error number to the developers team : "
+msgstr ""
+
+#: unit1.com139
+msgctxt "unit1.com139"
+msgid "Separate signs from values?"
+msgstr ""
+
+#: unit1.com14
+msgctxt "unit1.com14"
+msgid "Lista nie zawiera projektów lub próbujesz otworzyć plik do ktrego nie masz uprawnień. Upewnij sie czy w panelu bocznym wybrano prawidlową nazwę projektu!"
+msgstr ""
+
+#: unit1.com140
+msgctxt "unit1.com140"
+msgid "Please calculate aAPA first"
+msgstr ""
+
+#: unit1.com141
+msgctxt "unit1.com141"
+msgid "File extension *.proj4g was associated with Grow_4 successfully"
+msgstr ""
+
+#: unit1.com142
+msgctxt "unit1.com142"
+msgid ""
+"Do you really want to quit the application?\n"
+"Modifications not saved will be lost!\n"
+msgstr ""
+
+#: unit1.com143
+msgctxt "unit1.com143"
+msgid "Please insert a value : "
+msgstr ""
+
+#: unit1.com144
+msgctxt "unit1.com144"
+msgid "The value is incorrect or it is out of allowable range !"
+msgstr ""
+
+#: unit1.com145
+msgctxt "unit1.com145"
+msgid "2<>Selected number of atoms is out of allowable range. Please include exactly 3 (calculated one by one) or 6 (calculated in one molecule) atoms in every molecule."
+msgstr ""
+
+#: unit1.com146
+msgctxt "unit1.com146"
+msgid "Delete all included records from current table ? "
+msgstr ""
+
+#: unit1.com147
+msgctxt "unit1.com147"
+msgid "Status: "
+msgstr ""
+
+#: unit1.com148
+msgctxt "unit1.com148"
+msgid "The 0 items found, operation can not be continued"
+msgstr ""
+
+#: unit1.com149
+msgctxt "unit1.com149"
+msgid "Open browser to download required files ?"
+msgstr ""
+
+#: unit1.com15
+msgctxt "unit1.com15"
+msgid "Can not sort a data, invalide range of data"
+msgstr ""
+
+#: unit1.com150
+msgctxt "unit1.com150"
+msgid "Current window width is less than 1000 pixels. Gradient function will color the window using this settings, although result may be unreadable. We recommend to not use windows size less than 1000 pixels (width) and 610 pixels (height)."
+msgstr ""
+
+#: unit1.com151
+msgctxt "unit1.com151"
+msgid "During calculations some problem occured, please report this bug."
+msgstr ""
+
+#: unit1.com152
+msgctxt "unit1.com152"
+msgid "Do you want to apply for all of molecules? If \"NO\" will be apply for current."
+msgstr ""
+
+#: unit1.com153
+msgctxt "unit1.com153"
+msgid "Please enter the value according to appropriate type: "
+msgstr ""
+
+#: unit1.com154
+msgctxt "unit1.com154"
+msgid "Incorrect variable type, expected :"
+msgstr ""
+
+#: unit1.com155
+msgctxt "unit1.com155"
+msgid "Indicate \"start\" and \"end\" number for the simulation range"
+msgstr ""
+
+#: unit1.com156
+msgctxt "unit1.com156"
+msgid "Input the values separated by semicolon (;) to indicate the range of macro simulation"
+msgstr ""
+
+#: unit1.com157
+msgctxt "unit1.com157"
+msgid "To add succeeding commands use the \"add button\". If command requires the number check number checkbox. If command requires the object number, please indiate it in object edit box. If you use additional values remember to add comma (,) separator before the value. For correct syntax evaluate the YASARA bookshelf."
+msgstr ""
+
+#: unit1.com158
+msgctxt "unit1.com158"
+msgid "Clean the result box ? If \"no\" new data will be append ?"
+msgstr ""
+
+#: unit1.com159
+msgctxt "unit1.com159"
+msgid "Lists $Res, $Mut, $Val should have an equal number of values, if appear in command script"
+msgstr ""
+
+#: unit1.com16
+msgctxt "unit1.com16"
+msgid "Not a valid range of data or invalid parameters ! "
+msgstr ""
+
+#: unit1.com160
+msgctxt "unit1.com160"
+msgid "Please indicate the line number separated by semicolon (;) for every line to be extracted. Range is indicated as a number of first (from) and last letter (to) to be extracted."
+msgstr ""
+
+#: unit1.com161
+msgctxt "unit1.com161"
+msgid "Incorrect data type in the fields !"
+msgstr ""
+
+#: unit1.com162
+msgctxt "unit1.com162"
+msgid "Not enough of selected atoms for the analysis, minimum :"
+msgstr ""
+
+#: unit1.com163
+msgctxt "unit1.com163"
+msgid "The file contains more than 3000 atoms. The application will try to parse the file, although it may stock for a long time. Please do not switch off the application or separate file to smaller parts."
+msgstr ""
+
+#: unit1.com164
+msgctxt "unit1.com164"
+msgid "Current file will be overwritten, continue?"
+msgstr ""
+
+#: unit1.com165
+msgctxt "unit1.com165"
+msgid "Please select exactly two atoms between which you would like to assign a bond"
+msgstr ""
+
+#: unit1.com166
+msgctxt "unit1.com166"
+msgid "The distance between atoms is more than 3 angstroms. Probability that exists a atomic bond between atoms is very low, are you sure to assign the bond?"
+msgstr ""
+
+#: unit1.com167
+msgctxt "unit1.com167"
+msgid "Please select exactly two atom between which you would like to delete the bond"
+msgstr ""
+
+#: unit1.com168
+msgctxt "unit1.com168"
+msgid "The appropriate program directory was not defined. Please set this values."
+msgstr ""
+
+#: unit1.com169
+msgctxt "unit1.com169"
+msgid "Unrecognized command: "
+msgstr ""
+
+#: unit1.com17
+msgctxt "unit1.com17"
+msgid "Enter the column number containing the axis "
+msgstr ""
+
+#: unit1.com18
+msgctxt "unit1.com18"
+msgid "Invalid file type or type of conversion"
+msgstr ""
+
+#: unit1.com19
+msgctxt "unit1.com19"
+msgid "Potencjalne węgle chiralne : "
+msgstr ""
+
+#: unit1.com2
+msgctxt "unit1.com2"
+msgid "Main directories was created correctly"
+msgstr ""
+
+#: unit1.com20
+msgctxt "unit1.com20"
+msgid "Imię i nazwisko operatora"
+msgstr ""
+
+#: unit1.com21
+msgctxt "unit1.com21"
+msgid "Podaj imię i nazwisko nowego operatora:"
+msgstr ""
+
+#: unit1.com22
+msgctxt "unit1.com22"
+msgid "Question,..."
+msgstr ""
+
+#: unit1.com23
+msgctxt "unit1.com23"
+msgid "File with the same name exists, repleace it?"
+msgstr ""
+
+#: unit1.com24
+msgctxt "unit1.com24"
+msgid "Raport"
+msgstr ""
+
+#: unit1.com25
+msgctxt "unit1.com25"
+msgid "Total result"
+msgstr ""
+
+#: unit1.com26
+msgctxt "unit1.com26"
+msgid "Information,..."
+msgstr ""
+
+#: unit1.com27
+msgctxt "unit1.com27"
+msgid "Clear all common entries ?"
+msgstr ""
+
+#: unit1.com28
+msgctxt "unit1.com28"
+msgid "U"
+msgstr ""
+
+#: unit1.com29
+msgctxt "unit1.com29"
+msgid "t"
+msgstr ""
+
+#: unit1.com3
+msgctxt "unit1.com3"
+msgid "Directory was NOT created correctly !"
+msgstr ""
+
+#: unit1.com30
+msgctxt "unit1.com30"
+msgid "Syntax error!"
+msgstr ""
+
+#: unit1.com31
+msgctxt "unit1.com31"
+msgid "New"
+msgstr ""
+
+#: unit1.com32
+msgctxt "unit1.com32"
+msgid "Message"
+msgstr ""
+
+#: unit1.com33
+msgctxt "unit1.com33"
+msgid "Czy chcesz stworzyć nową tabelę? "
+msgstr ""
+
+#: unit1.com34
+msgctxt "unit1.com34"
+msgid "Percent of classified : "
+msgstr ""
+
+#: unit1.com35
+msgctxt "unit1.com35"
+msgid "Plane are parallel, angle cannot be obtained !"
+msgstr ""
+
+#: unit1.com36
+msgctxt "unit1.com36"
+msgid "2<>Invalid number of records ! Should be included exactly 3 atoms for every group!"
+msgstr ""
+
+#: unit1.com37
+msgctxt "unit1.com37"
+msgid "Please insert the valid PDB ID or code series separated by semicolon (for example 3IL1;3KTD;2XX8)"
+msgstr ""
+
+#: unit1.com38
+msgctxt "unit1.com38"
+msgid "Invalid PDB ID , should has 4 letters or numbers!"
+msgstr ""
+
+#: unit1.com39
+msgctxt "unit1.com39"
+msgid "Export column headers ?"
+msgstr ""
+
+#: unit1.com4
+msgctxt "unit1.com4"
+msgid "Problem with read or save a settings"
+msgstr ""
+
+#: unit1.com40
+msgctxt "unit1.com40"
+msgid "File saved in directory : "
+msgstr ""
+
+#: unit1.com41
+msgctxt "unit1.com41"
+msgid "Analysis will erase current data, start now?"
+msgstr ""
+
+#: unit1.com42
+msgctxt "unit1.com42"
+msgid "Add the partial results into a new table ?"
+msgstr ""
+
+#: unit1.com43
+msgctxt "unit1.com43"
+msgid "Export only common table as an single file? ["
+msgstr ""
+
+#: unit1.com44
+msgctxt "unit1.com44"
+msgid "The help file does not exist. Contact your application vendor for an updated Help file"
+msgstr ""
+
+#: unit1.com45
+msgctxt "unit1.com45"
+msgid "Add a \"connect\" section?"
+msgstr ""
+
+#: unit1.com46
+msgctxt "unit1.com46"
+msgid "Enter a bookmark number containing the \"connect\" table, to leave enter \"0\" :"
+msgstr ""
+
+#: unit1.com47
+msgctxt "unit1.com47"
+msgid "Entries in tables will be recalculated, continue?"
+msgstr ""
+
+#: unit1.com48
+msgctxt "unit1.com48"
+msgid "Entries in tables will be corrected, continue?"
+msgstr ""
+
+#: unit1.com49
+msgctxt "unit1.com49"
+msgid "Columns do not contain the same quantity of records !"
+msgstr ""
+
+#: unit1.com5
+msgctxt "unit1.com5"
+msgid "New file"
+msgstr ""
+
+#: unit1.com50
+msgctxt "unit1.com50"
+msgid "Do current project as a default? (it will be loaded with the opening of the program)"
+msgstr ""
+
+#: unit1.com51
+msgctxt "unit1.com51"
+msgid "The module combines multiple text files (such as PDB files) into one larger file, do you want to continue?"
+msgstr ""
+
+#: unit1.com52
+msgctxt "unit1.com52"
+msgid "] or NO - export all selected in one PDB file"
+msgstr ""
+
+#: unit1.com53
+msgctxt "unit1.com53"
+msgid "Save changes ?"
+msgstr ""
+
+#: unit1.com54
+msgctxt "unit1.com54"
+msgid "Number of neighbors"
+msgstr ""
+
+#: unit1.com55
+msgctxt "unit1.com55"
+msgid "Improper selection, allowed 3 columns and 3 rows"
+msgstr ""
+
+#: unit1.com56
+msgctxt "unit1.com56"
+msgid "Invalid program direstory, check external programs settings"
+msgstr ""
+
+#: unit1.com57
+msgctxt "unit1.com57"
+msgid "Do you want to save current project?"
+msgstr ""
+
+#: unit1.com58
+msgctxt "unit1.com58"
+msgid "GLUT library did not find! Please supply required file glut32.dll"
+msgstr ""
+
+#: unit1.com59
+msgctxt "unit1.com59"
+msgid "None row seems to be selected in Inc. column in the project table, file can not be generated."
+msgstr ""
+
+#: unit1.com6
+msgctxt "unit1.com6"
+msgid "Insert new filename"
+msgstr ""
+
+#: unit1.com60
+msgctxt "unit1.com60"
+msgid "1<>\"CONECT\" table seems to not be included in this project file"
+msgstr ""
+
+#: unit1.com61
+msgctxt "unit1.com61"
+msgid "Podaj numery rekordów oddzielone znakiem separacji \" ; \" Ranga równa 0, nie jest brana pod uwagę."
+msgstr ""
+
+#: unit1.com62
+msgctxt "unit1.com62"
+msgid ""
+"More than one \"CONNECT\" section were found, please use the \"recalculate CONNECT\" and try again, or:\n"
+"(YES) - save adding the first table which was found\n"
+"(NO) - save without any \"CONNECT\" section\n"
+"(CANCEL) - cancel operation and don`t save the file\n"
+msgstr ""
+
+#: unit1.com63
+msgctxt "unit1.com63"
+msgid "Are you sure to delete all included models?"
+msgstr ""
+
+#: unit1.com64
+msgctxt "unit1.com64"
+msgid "1<>This column is read only! Please select the correct project name column"
+msgstr ""
+
+#: unit1.com65
+msgctxt "unit1.com65"
+msgid "Suma"
+msgstr ""
+
+#: unit1.com66
+msgctxt "unit1.com66"
+msgid "Średnia arytmetyczna"
+msgstr ""
+
+#: unit1.com67
+msgctxt "unit1.com67"
+msgid "Średnia geometryczna"
+msgstr ""
+
+#: unit1.com68
+msgctxt "unit1.com68"
+msgid "Mediana"
+msgstr ""
+
+#: unit1.com69
+msgctxt "unit1.com69"
+msgid "Moda"
+msgstr ""
+
+#: unit1.com7
+msgctxt "unit1.com7"
+msgid "2<>Problem with read or save a file, check you have a permision to the file or operation"
+msgstr ""
+
+#: unit1.com70
+msgctxt "unit1.com70"
+msgid "Odchylenie standardowe"
+msgstr ""
+
+#: unit1.com71
+msgctxt "unit1.com71"
+msgid "Rozstęp"
+msgstr ""
+
+#: unit1.com72
+msgctxt "unit1.com72"
+msgid "Wariancja"
+msgstr ""
+
+#: unit1.com73
+msgctxt "unit1.com73"
+msgid "Wartośc minimalna"
+msgstr ""
+
+#: unit1.com74
+msgctxt "unit1.com74"
+msgid "Wartość maksymalna"
+msgstr ""
+
+#: unit1.com75
+msgctxt "unit1.com75"
+msgid "Wspólczynnik zmienności"
+msgstr ""
+
+#: unit1.com76
+msgctxt "unit1.com76"
+msgid "Wskaźnik skośności"
+msgstr ""
+
+#: unit1.com77
+msgctxt "unit1.com77"
+msgid "Kurtoza"
+msgstr ""
+
+#: unit1.com78
+msgctxt "unit1.com78"
+msgid "Momentem centralnym lV rzędu"
+msgstr ""
+
+#: unit1.com79
+msgctxt "unit1.com79"
+msgid "Number of elements"
+msgstr ""
+
+#: unit1.com8
+msgctxt "unit1.com8"
+msgid "Filename exists"
+msgstr ""
+
+#: unit1.com80
+msgctxt "unit1.com80"
+msgid "#Erorr"
+msgstr ""
+
+#: unit1.com81
+msgctxt "unit1.com81"
+msgid "Model name has to be unique!, please try again"
+msgstr ""
+
+#: unit1.com82
+msgctxt "unit1.com82"
+msgid "More than one connection table exists in the project,please use \"combine connect tables\" to correct this problem"
+msgstr ""
+
+#: unit1.com83
+msgctxt "unit1.com83"
+msgid "Recalculation is not necessary, only one connect table exists"
+msgstr ""
+
+#: unit1.com84
+msgctxt "unit1.com84"
+msgid " fixed erorrs! File will be rebuilt and saved."
+msgstr ""
+
+#: unit1.com85
+msgctxt "unit1.com85"
+msgid "1<help.html>At least one model name is not unique, names will be renamed automatically"
+msgstr ""
+
+#: unit1.com86
+msgctxt "unit1.com86"
+msgid "new"
+msgstr ""
+
+#: unit1.com87
+msgctxt "unit1.com87"
+msgid "Change name,..."
+msgstr ""
+
+#: unit1.com88
+msgctxt "unit1.com88"
+msgid "New name : "
+msgstr ""
+
+#: unit1.com89
+msgctxt "unit1.com89"
+msgid ""
+"1<>This table is an index of PDB file any changes can make file unable to\n"
+"open in ecternal programs. Are you sure to include the connect table?\n"
+msgstr ""
+
+#: unit1.com9
+msgctxt "unit1.com9"
+msgid "Error : Divide by zero"
+msgstr ""
+
+#: unit1.com90
+msgctxt "unit1.com90"
+msgid "Calculation finished :"
+msgstr ""
+
+#: unit1.com91
+msgctxt "unit1.com91"
+msgid "Calculation started :"
+msgstr ""
+
+#: unit1.com92
+msgctxt "unit1.com92"
+msgid "2<>Processing stop, incorrect file syntax!"
+msgstr ""
+
+#: unit1.com93
+msgctxt "unit1.com93"
+msgid "2<>None model was included in the project table"
+msgstr ""
+
+#: unit1.com94
+msgctxt "unit1.com94"
+msgid "Please insert symbol which will be used to separate CSV file:  "
+msgstr ""
+
+#: unit1.com95
+msgctxt "unit1.com95"
+msgid "Only one grid can be saved in this format, continue with current grid?"
+msgstr ""
+
+#: unit1.com96
+msgctxt "unit1.com96"
+msgid "Write atom name : "
+msgstr ""
+
+#: unit1.com97
+msgctxt "unit1.com97"
+msgid "--- Select a molecule ---"
+msgstr ""
+
+#: unit1.com98
+msgctxt "unit1.com98"
+msgid "2<>More than 3 atom selected in one of the group!"
+msgstr ""
+
+#: unit1.com99
+msgctxt "unit1.com99"
+msgid "Please insert a phrase to search in current table : "
+msgstr ""
+
+#: unit1.file_grids_template
+msgctxt "unit1.file_grids_template"
+msgid "grids_template.index"
+msgstr ""
+
+#: unit1.file_operator
+msgctxt "unit1.file_operator"
+msgid "operator_name.otp"
+msgstr ""
+
+#: unit1.glut_url
+msgctxt "unit1.glut_url"
+msgid "http://http://user.xmission.com/~nate/glut.html"
+msgstr ""
+
+#: unit1.help_url
+msgctxt "unit1.help_url"
+msgid "http://www.grow4.eu"
+msgstr ""
+
+#: unit1.indexfilter_1
+msgctxt "unit1.indexfilter_1"
+msgid "Grow_4 project file (*.proj4g)|*.proj4g"
+msgstr ""
+
+#: unit1.indexfilter_10
+msgctxt "unit1.indexfilter_10"
+msgid "FASTA text file (*.fasta)|*.fasta"
+msgstr ""
+
+#: unit1.indexfilter_11
+msgctxt "unit1.indexfilter_11"
+msgid "Macro text file (*.mcr)|*.mcr"
+msgstr ""
+
+#: unit1.indexfilter_2
+msgctxt "unit1.indexfilter_2"
+msgid "PDB file (*.pdb ; *.ent)|*.pdb;*.ent"
+msgstr ""
+
+#: unit1.indexfilter_3
+msgctxt "unit1.indexfilter_3"
+msgid "XML (*.xml)|*.xml"
+msgstr ""
+
+#: unit1.indexfilter_4
+msgctxt "unit1.indexfilter_4"
+msgid "CSV (*.csv)|*.csv"
+msgstr ""
+
+#: unit1.indexfilter_5
+msgctxt "unit1.indexfilter_5"
+msgid "MOL2 (*.mol2)|*.mol2"
+msgstr ""
+
+#: unit1.indexfilter_6
+msgctxt "unit1.indexfilter_6"
+msgid "xMOL (*.xyz)|*.xyz"
+msgstr ""
+
+#: unit1.indexfilter_7
+msgctxt "unit1.indexfilter_7"
+msgid "HTML (*.html)|*.html"
+msgstr ""
+
+#: unit1.indexfilter_8
+msgctxt "unit1.indexfilter_8"
+msgid "Text file (*.txt)|*.txt"
+msgstr ""
+
+#: unit1.indexfilter_9
+msgctxt "unit1.indexfilter_9"
+msgid "Semi-colon separated text file (*.ssv)|*.ssv"
+msgstr ""
+
+#: unit1.indexfilter_any
+msgctxt "unit1.indexfilter_any"
+msgid "Any file (*.*)|*.*"
+msgstr ""
+
+#: unit1.linia
+msgctxt "unit1.linia"
+msgid "____________________________________________________________________"
+msgstr ""
+
+#: unit1.linia2
+msgctxt "unit1.linia2"
+msgid "--------------------------------------------------------------------"
+msgstr ""
+
+#: unit1.loading
+msgctxt "unit1.loading"
+msgid "Loading : "
+msgstr ""
+
+#: unit1.pdb_id_url
+msgctxt "unit1.pdb_id_url"
+msgid "http://www.pdb.org/pdb/files/"
+msgstr ""
+
+#: unit1.pleasewait
+msgctxt "unit1.pleasewait"
+msgid "Please wait,..."
+msgstr ""
+
+#: unit1.processing
+msgctxt "unit1.processing"
+msgid "Operation in progress, please wait ..."
+msgstr ""
+
+#: unit1.roz_grid_template
+msgctxt "unit1.roz_grid_template"
+msgid ".gtp"
+msgstr ""
+
+#: unit1.roz_ind
+msgctxt "unit1.roz_ind"
+msgid ".index"
+msgstr ""
+
+#: unit1.roz_project
+msgctxt "unit1.roz_project"
+msgid ".proj4g"
+msgstr ""
+
+#: unit1.roz_sym
+msgctxt "unit1.roz_sym"
+msgid ".sym"
+msgstr ""
+
+#: unit1.type_analisis
+msgctxt "unit1.type_analisis"
+msgid "ANA"
+msgstr ""
+
+#: unit1.type_atom
+msgctxt "unit1.type_atom"
+msgid "ATOM"
+msgstr ""
+
+#: unit1.type_bond
+msgctxt "unit1.type_bond"
+msgid "BOND"
+msgstr ""
+
+#: unit1.type_dna
+msgctxt "unit1.type_dna"
+msgid "DNA"
+msgstr ""
+
+#: unit1.type_heteroatom
+msgctxt "unit1.type_heteroatom"
+msgid "HETATM"
+msgstr ""
+
+#: unit1.type_ligand
+msgctxt "unit1.type_ligand"
+msgid "LIG"
+msgstr ""
+
+#: unit1.type_plane
+msgctxt "unit1.type_plane"
+msgid "PLA"
+msgstr ""
+
+#: unit1.type_protein
+msgctxt "unit1.type_protein"
+msgid "PRO"
+msgstr ""
+
+#: unit1.type_rna
+msgctxt "unit1.type_rna"
+msgid "RNA"
+msgstr ""
+
+#: unit1.type_water
+msgctxt "unit1.type_water"
+msgid "HOH"
+msgstr ""
+
+#: unit2.com1
+msgctxt "unit2.com1"
+msgid "Incorrect directory or filename, check it or change the project`s name"
+msgstr ""
+
+#: unit2.com10
+msgctxt "unit2.com10"
+msgid "Invalide range of data"
+msgstr ""
+
+#: unit2.com100
+msgctxt "unit2.com100"
+msgid "2<>Not enough atoms selected for the analysis, minimum value is 3 atoms"
+msgstr ""
+
+#: unit2.com101
+msgctxt "unit2.com101"
+msgid "2<>Not enough molecules selected for the analysis, minimum value is 1 molecule"
+msgstr ""
+
+#: unit2.com102
+msgctxt "unit2.com102"
+msgid "Do you want to split current table?"
+msgstr ""
+
+#: unit2.com103
+msgctxt "unit2.com103"
+msgid "1<>Please include only one table to seperation"
+msgstr ""
+
+#: unit2.com104
+msgctxt "unit2.com104"
+msgid "1<>Incorrect input data, at least one value omitted!"
+msgstr ""
+
+#: unit2.com105
+msgctxt "unit2.com105"
+msgid "0<>Rows were replaced : "
+msgstr ""
+
+#: unit2.com106
+msgctxt "unit2.com106"
+msgid "2<>Not enough rows selected, select exactly 2 rows to replacement"
+msgstr ""
+
+#: unit2.com107
+msgctxt "unit2.com107"
+msgid "Renumber all of the atoms?"
+msgstr ""
+
+#: unit2.com108
+msgctxt "unit2.com108"
+msgid "2<>Not enough atoms selected for the analysis, minimum value is 2 atoms"
+msgstr ""
+
+#: unit2.com109
+msgctxt "unit2.com109"
+msgid "2<>Command line syntax error!"
+msgstr ""
+
+#: unit2.com11
+msgctxt "unit2.com11"
+msgid "Start procedure with \"=\""
+msgstr ""
+
+#: unit2.com110
+msgctxt "unit2.com110"
+msgid "1<>Overlay plane not selected!"
+msgstr ""
+
+#: unit2.com111
+msgctxt "unit2.com111"
+msgid "Number of atoms"
+msgstr ""
+
+#: unit2.com112
+msgctxt "unit2.com112"
+msgid "The molecules contain a different number of atoms : "
+msgstr ""
+
+#: unit2.com113
+msgctxt "unit2.com113"
+msgid "Number of inc. atoms"
+msgstr ""
+
+#: unit2.com114
+msgctxt "unit2.com114"
+msgid "1<>Please include only one record to move"
+msgstr ""
+
+#: unit2.com115
+msgctxt "unit2.com115"
+msgid "2<>Some problems occurred"
+msgstr ""
+
+#: unit2.com116
+msgctxt "unit2.com116"
+msgid "2<>Atoms in residues are not in correct order. Sequences are different or residue names are not presented."
+msgstr ""
+
+#: unit2.com117
+msgctxt "unit2.com117"
+msgid "Atom coordinates will become the beginning of a new coordinate system, all values will be converted automatically, continue? If \"Yes\", the default value will be marked as \"no alerts before coordinate system changing\", no notifications will facilitate the work in GROW_4 environment, but if You need the native coordinate system press \"No\""
+msgstr ""
+
+#: unit2.com118
+msgctxt "unit2.com118"
+msgid "Is first record containing a headers?"
+msgstr ""
+
+#: unit2.com119
+msgctxt "unit2.com119"
+msgid "Is first column containing a headers?"
+msgstr ""
+
+#: unit2.com12
+msgctxt "unit2.com12"
+msgid "File not exists"
+msgstr ""
+
+#: unit2.com120
+msgctxt "unit2.com120"
+msgid "Please insert a sign of separation:"
+msgstr ""
+
+#: unit2.com121
+msgctxt "unit2.com121"
+msgid "1<>Lists contain different number of cases"
+msgstr ""
+
+#: unit2.com122
+msgctxt "unit2.com122"
+msgid "adequacy :"
+msgstr ""
+
+#: unit2.com123
+msgctxt "unit2.com123"
+msgid "Number of components:"
+msgstr ""
+
+#: unit2.com124
+msgctxt "unit2.com124"
+msgid "CoA :"
+msgstr ""
+
+#: unit2.com125
+msgctxt "unit2.com125"
+msgid "Percent of CoA [PCoA] :"
+msgstr ""
+
+#: unit2.com126
+msgctxt "unit2.com126"
+msgid "Average CoA [aCoA] :"
+msgstr ""
+
+#: unit2.com127
+msgctxt "unit2.com127"
+msgid "CoA 50% :"
+msgstr ""
+
+#: unit2.com128
+msgctxt "unit2.com128"
+msgid "CoA 100% :"
+msgstr ""
+
+#: unit2.com129
+msgctxt "unit2.com129"
+msgid "Q2 QSAR :"
+msgstr ""
+
+#: unit2.com13
+msgctxt "unit2.com13"
+msgid "Can not create a table"
+msgstr ""
+
+#: unit2.com130
+msgctxt "unit2.com130"
+msgid "1<>Syntax error: Atom cannot be rendered:"
+msgstr ""
+
+#: unit2.com131
+msgctxt "unit2.com131"
+msgid "0<>Rendered correctly"
+msgstr ""
+
+#: unit2.com132
+msgctxt "unit2.com132"
+msgid "Undefined value : "
+msgstr ""
+
+#: unit2.com133
+msgctxt "unit2.com133"
+msgid "Error creating graphics"
+msgstr ""
+
+#: unit2.com134
+msgctxt "unit2.com134"
+msgid "Atom list failed during preparation"
+msgstr ""
+
+#: unit2.com135
+msgctxt "unit2.com135"
+msgid "Error: Command cannot be completed, syntax error"
+msgstr ""
+
+#: unit2.com136
+msgctxt "unit2.com136"
+msgid "Please, enter the number of the diagonal to be copied. Range: "
+msgstr ""
+
+#: unit2.com137
+msgctxt "unit2.com137"
+msgid "1<>Entered value is not a number or is located outside the range."
+msgstr ""
+
+#: unit2.com138
+msgctxt "unit2.com138"
+msgid "2<>Some problems occurred during the procedure and cannot be completed, please report the error number to the developers team : "
+msgstr ""
+
+#: unit2.com139
+msgctxt "unit2.com139"
+msgid "Separate signs from values?"
+msgstr ""
+
+#: unit2.com14
+msgctxt "unit2.com14"
+msgid "Lista nie zawiera projektów lub próbujesz otworzyć plik do ktrego nie masz uprawnień. Upewnij sie czy w panelu bocznym wybrano prawidlową nazwę projektu!"
+msgstr ""
+
+#: unit2.com140
+msgctxt "unit2.com140"
+msgid "Please calculate aAPA first"
+msgstr ""
+
+#: unit2.com141
+msgctxt "unit2.com141"
+msgid "File extension *.proj4g was associated with Grow_4 successfully"
+msgstr ""
+
+#: unit2.com142
+msgctxt "unit2.com142"
+msgid ""
+"Do you really want to quit the application?\n"
+"Modifications not saved will be lost!\n"
+msgstr ""
+
+#: unit2.com143
+msgctxt "unit2.com143"
+msgid "Please insert a value : "
+msgstr ""
+
+#: unit2.com144
+msgctxt "unit2.com144"
+msgid "The value is incorrect or it is out of allowable range !"
+msgstr ""
+
+#: unit2.com145
+msgctxt "unit2.com145"
+msgid "2<>Selected number of atoms is out of allowable range. Please include exactly 3 (calculated one by one) or 6 (calculated in one molecule) atoms in every molecule."
+msgstr ""
+
+#: unit2.com146
+msgctxt "unit2.com146"
+msgid "Delete all included records from current table ? "
+msgstr ""
+
+#: unit2.com147
+msgctxt "unit2.com147"
+msgid "Status: "
+msgstr ""
+
+#: unit2.com148
+msgctxt "unit2.com148"
+msgid "The 0 items found, operation can not be continued"
+msgstr ""
+
+#: unit2.com149
+msgctxt "unit2.com149"
+msgid "Open browser to download required files ?"
+msgstr ""
+
+#: unit2.com15
+msgctxt "unit2.com15"
+msgid "Can not sort a data, invalide range of data"
+msgstr ""
+
+#: unit2.com150
+msgctxt "unit2.com150"
+msgid "Current window width is less than 1000 pixels. Gradient function will color the window using this settings, although result may be unreadable. We recommend to not use windows size less than 1000 pixels (width) and 610 pixels (height)."
+msgstr ""
+
+#: unit2.com151
+msgctxt "unit2.com151"
+msgid "During calculations some problem occured, please report this bug."
+msgstr ""
+
+#: unit2.com152
+msgctxt "unit2.com152"
+msgid "Do you want to apply for all of molecules? If \"NO\" will be apply for current."
+msgstr ""
+
+#: unit2.com153
+msgctxt "unit2.com153"
+msgid "Please enter the value according to appropriate type: "
+msgstr ""
+
+#: unit2.com154
+msgctxt "unit2.com154"
+msgid "Incorrect variable type, expected :"
+msgstr ""
+
+#: unit2.com155
+msgctxt "unit2.com155"
+msgid "Indicate \"start\" and \"end\" number for the simulation range"
+msgstr ""
+
+#: unit2.com156
+msgctxt "unit2.com156"
+msgid "Input the values separated by semicolon (;) to indicate the range of macro simulation"
+msgstr ""
+
+#: unit2.com157
+msgctxt "unit2.com157"
+msgid "To add succeeding commands use the \"add button\". If command requires the number check number checkbox. If command requires the object number, please indiate it in object edit box. If you use additional values remember to add comma (,) separator before the value. For correct syntax evaluate the YASARA bookshelf."
+msgstr ""
+
+#: unit2.com158
+msgctxt "unit2.com158"
+msgid "Clean the result box ? If \"no\" new data will be append ?"
+msgstr ""
+
+#: unit2.com159
+msgctxt "unit2.com159"
+msgid "Lists $Res, $Mut, $Val should have an equal number of values, if appear in command script"
+msgstr ""
+
+#: unit2.com16
+msgctxt "unit2.com16"
+msgid "Not a valid range of data or invalid parameters ! "
+msgstr ""
+
+#: unit2.com160
+msgctxt "unit2.com160"
+msgid "Please indicate the line number separated by semicolon (;) for every line to be extracted. Range is indicated as a number of first (from) and last letter (to) to be extracted."
+msgstr ""
+
+#: unit2.com161
+msgctxt "unit2.com161"
+msgid "Incorrect data type in the fields !"
+msgstr ""
+
+#: unit2.com162
+msgctxt "unit2.com162"
+msgid "Not enough of selected atoms for the analysis, minimum :"
+msgstr ""
+
+#: unit2.com163
+msgctxt "unit2.com163"
+msgid "The file contains more than 3000 atoms. The application will try to parse the file, although it may stock for a long time. Please do not switch off the application or separate file to smaller parts."
+msgstr ""
+
+#: unit2.com164
+msgctxt "unit2.com164"
+msgid "Current file will be overwritten, continue?"
+msgstr ""
+
+#: unit2.com165
+msgctxt "unit2.com165"
+msgid "Please select exactly two atoms between which you would like to assign a bond"
+msgstr ""
+
+#: unit2.com166
+msgctxt "unit2.com166"
+msgid "The distance between atoms is more than 3 angstroms. Probability that exists a atomic bond between atoms is very low, are you sure to assign the bond?"
+msgstr ""
+
+#: unit2.com167
+msgctxt "unit2.com167"
+msgid "Please select exactly two atom between which you would like to delete the bond"
+msgstr ""
+
+#: unit2.com168
+msgctxt "unit2.com168"
+msgid "The appropriate program directory was not defined. Please set this values."
+msgstr ""
+
+#: unit2.com169
+msgctxt "unit2.com169"
+msgid "Unrecognized command: "
+msgstr ""
+
+#: unit2.com17
+msgctxt "unit2.com17"
+msgid "Enter the column number containing the axis "
+msgstr ""
+
+#: unit2.com18
+msgctxt "unit2.com18"
+msgid "Invalid file type or type of conversion"
+msgstr ""
+
+#: unit2.com19
+msgctxt "unit2.com19"
+msgid "Potencjalne węgle chiralne : "
+msgstr ""
+
+#: unit2.com2
+msgctxt "unit2.com2"
+msgid "Main directories was created correctly"
+msgstr ""
+
+#: unit2.com20
+msgctxt "unit2.com20"
+msgid "Imię i nazwisko operatora"
+msgstr ""
+
+#: unit2.com21
+msgctxt "unit2.com21"
+msgid "Podaj imię i nazwisko nowego operatora:"
+msgstr ""
+
+#: unit2.com22
+msgctxt "unit2.com22"
+msgid "Question,..."
+msgstr ""
+
+#: unit2.com23
+msgctxt "unit2.com23"
+msgid "File with the same name exists, repleace it?"
+msgstr ""
+
+#: unit2.com24
+msgctxt "unit2.com24"
+msgid "Raport"
+msgstr ""
+
+#: unit2.com25
+msgctxt "unit2.com25"
+msgid "Total result"
+msgstr ""
+
+#: unit2.com26
+msgctxt "unit2.com26"
+msgid "Information,..."
+msgstr ""
+
+#: unit2.com27
+msgctxt "unit2.com27"
+msgid "Clear all common entries ?"
+msgstr ""
+
+#: unit2.com28
+msgctxt "unit2.com28"
+msgid "U"
+msgstr ""
+
+#: unit2.com29
+msgctxt "unit2.com29"
+msgid "t"
+msgstr ""
+
+#: unit2.com3
+msgctxt "unit2.com3"
+msgid "Directory was NOT created correctly !"
+msgstr ""
+
+#: unit2.com30
+msgctxt "unit2.com30"
+msgid "Syntax error!"
+msgstr ""
+
+#: unit2.com31
+msgctxt "unit2.com31"
+msgid "New"
+msgstr ""
+
+#: unit2.com32
+msgctxt "unit2.com32"
+msgid "Message"
+msgstr ""
+
+#: unit2.com33
+msgctxt "unit2.com33"
+msgid "Czy chcesz stworzyć nową tabelę? "
+msgstr ""
+
+#: unit2.com34
+msgctxt "unit2.com34"
+msgid "Percent of classified : "
+msgstr ""
+
+#: unit2.com35
+msgctxt "unit2.com35"
+msgid "Plane are parallel, angle cannot be obtained !"
+msgstr ""
+
+#: unit2.com36
+msgctxt "unit2.com36"
+msgid "2<>Invalid number of records ! Should be included exactly 3 atoms for every group!"
+msgstr ""
+
+#: unit2.com37
+msgctxt "unit2.com37"
+msgid "Please insert the valid PDB ID or code series separated by semicolon (for example 3IL1;3KTD;2XX8)"
+msgstr ""
+
+#: unit2.com38
+msgctxt "unit2.com38"
+msgid "Invalid PDB ID , should has 4 letters or numbers!"
+msgstr ""
+
+#: unit2.com39
+msgctxt "unit2.com39"
+msgid "Export column headers ?"
+msgstr ""
+
+#: unit2.com4
+msgctxt "unit2.com4"
+msgid "Problem with read or save a settings"
+msgstr ""
+
+#: unit2.com40
+msgctxt "unit2.com40"
+msgid "File saved in directory : "
+msgstr ""
+
+#: unit2.com41
+msgctxt "unit2.com41"
+msgid "Analysis will erase current data, start now?"
+msgstr ""
+
+#: unit2.com42
+msgctxt "unit2.com42"
+msgid "Add the partial results into a new table ?"
+msgstr ""
+
+#: unit2.com43
+msgctxt "unit2.com43"
+msgid "Export only common table as an single file? ["
+msgstr ""
+
+#: unit2.com44
+msgctxt "unit2.com44"
+msgid "The help file does not exist. Contact your application vendor for an updated Help file"
+msgstr ""
+
+#: unit2.com45
+msgctxt "unit2.com45"
+msgid "Add a \"connect\" section?"
+msgstr ""
+
+#: unit2.com46
+msgctxt "unit2.com46"
+msgid "Enter a bookmark number containing the \"connect\" table, to leave enter \"0\" :"
+msgstr ""
+
+#: unit2.com47
+msgctxt "unit2.com47"
+msgid "Entries in tables will be recalculated, continue?"
+msgstr ""
+
+#: unit2.com48
+msgctxt "unit2.com48"
+msgid "Entries in tables will be corrected, continue?"
+msgstr ""
+
+#: unit2.com49
+msgctxt "unit2.com49"
+msgid "Columns do not contain the same quantity of records !"
+msgstr ""
+
+#: unit2.com5
+msgctxt "unit2.com5"
+msgid "New file"
+msgstr ""
+
+#: unit2.com50
+msgctxt "unit2.com50"
+msgid "Do current project as a default? (it will be loaded with the opening of the program)"
+msgstr ""
+
+#: unit2.com51
+msgctxt "unit2.com51"
+msgid "The module combines multiple text files (such as PDB files) into one larger file, do you want to continue?"
+msgstr ""
+
+#: unit2.com52
+msgctxt "unit2.com52"
+msgid "] or NO - export all selected in one PDB file"
+msgstr ""
+
+#: unit2.com53
+msgctxt "unit2.com53"
+msgid "Save changes ?"
+msgstr ""
+
+#: unit2.com54
+msgctxt "unit2.com54"
+msgid "Number of neighbors"
+msgstr ""
+
+#: unit2.com55
+msgctxt "unit2.com55"
+msgid "Improper selection, allowed 3 columns and 3 rows"
+msgstr ""
+
+#: unit2.com56
+msgctxt "unit2.com56"
+msgid "Invalid program direstory, check external programs settings"
+msgstr ""
+
+#: unit2.com57
+msgctxt "unit2.com57"
+msgid "Do you want to save current project?"
+msgstr ""
+
+#: unit2.com58
+msgctxt "unit2.com58"
+msgid "GLUT library did not find! Please supply required file glut32.dll"
+msgstr ""
+
+#: unit2.com59
+msgctxt "unit2.com59"
+msgid "None row seems to be selected in Inc. column in the project table, file can not be generated."
+msgstr ""
+
+#: unit2.com6
+msgctxt "unit2.com6"
+msgid "Insert new filename"
+msgstr ""
+
+#: unit2.com60
+msgctxt "unit2.com60"
+msgid "1<>\"CONECT\" table seems to not be included in this project file"
+msgstr ""
+
+#: unit2.com61
+msgctxt "unit2.com61"
+msgid "Podaj numery rekordów oddzielone znakiem separacji \" ; \" Ranga równa 0, nie jest brana pod uwagę."
+msgstr ""
+
+#: unit2.com62
+msgctxt "unit2.com62"
+msgid ""
+"More than one \"CONNECT\" section were found, please use the \"recalculate CONNECT\" and try again, or:\n"
+"(YES) - save adding the first table which was found\n"
+"(NO) - save without any \"CONNECT\" section\n"
+"(CANCEL) - cancel operation and don`t save the file\n"
+msgstr ""
+
+#: unit2.com63
+msgctxt "unit2.com63"
+msgid "Are you sure to delete all included models?"
+msgstr ""
+
+#: unit2.com64
+msgctxt "unit2.com64"
+msgid "1<>This column is read only! Please select the correct project name column"
+msgstr ""
+
+#: unit2.com65
+msgctxt "unit2.com65"
+msgid "Suma"
+msgstr ""
+
+#: unit2.com66
+msgctxt "unit2.com66"
+msgid "Średnia arytmetyczna"
+msgstr ""
+
+#: unit2.com67
+msgctxt "unit2.com67"
+msgid "Średnia geometryczna"
+msgstr ""
+
+#: unit2.com68
+msgctxt "unit2.com68"
+msgid "Mediana"
+msgstr ""
+
+#: unit2.com69
+msgctxt "unit2.com69"
+msgid "Moda"
+msgstr ""
+
+#: unit2.com7
+msgctxt "unit2.com7"
+msgid "2<>Problem with read or save a file, check you have a permision to the file or operation"
+msgstr ""
+
+#: unit2.com70
+msgctxt "unit2.com70"
+msgid "Odchylenie standardowe"
+msgstr ""
+
+#: unit2.com71
+msgctxt "unit2.com71"
+msgid "Rozstęp"
+msgstr ""
+
+#: unit2.com72
+msgctxt "unit2.com72"
+msgid "Wariancja"
+msgstr ""
+
+#: unit2.com73
+msgctxt "unit2.com73"
+msgid "Wartośc minimalna"
+msgstr ""
+
+#: unit2.com74
+msgctxt "unit2.com74"
+msgid "Wartość maksymalna"
+msgstr ""
+
+#: unit2.com75
+msgctxt "unit2.com75"
+msgid "Wspólczynnik zmienności"
+msgstr ""
+
+#: unit2.com76
+msgctxt "unit2.com76"
+msgid "Wskaźnik skośności"
+msgstr ""
+
+#: unit2.com77
+msgctxt "unit2.com77"
+msgid "Kurtoza"
+msgstr ""
+
+#: unit2.com78
+msgctxt "unit2.com78"
+msgid "Momentem centralnym lV rzędu"
+msgstr ""
+
+#: unit2.com79
+msgctxt "unit2.com79"
+msgid "Number of elements"
+msgstr ""
+
+#: unit2.com8
+msgctxt "unit2.com8"
+msgid "Filename exists"
+msgstr ""
+
+#: unit2.com80
+msgctxt "unit2.com80"
+msgid "#Erorr"
+msgstr ""
+
+#: unit2.com81
+msgctxt "unit2.com81"
+msgid "Model name has to be unique!, please try again"
+msgstr ""
+
+#: unit2.com82
+msgctxt "unit2.com82"
+msgid "More than one connection table exists in the project,please use \"combine connect tables\" to correct this problem"
+msgstr ""
+
+#: unit2.com83
+msgctxt "unit2.com83"
+msgid "Recalculation is not necessary, only one connect table exists"
+msgstr ""
+
+#: unit2.com84
+msgctxt "unit2.com84"
+msgid " fixed erorrs! File will be rebuilt and saved."
+msgstr ""
+
+#: unit2.com85
+msgctxt "unit2.com85"
+msgid "1<help.html>At least one model name is not unique, names will be renamed automatically"
+msgstr ""
+
+#: unit2.com86
+msgctxt "unit2.com86"
+msgid "new"
+msgstr ""
+
+#: unit2.com87
+msgctxt "unit2.com87"
+msgid "Change name,..."
+msgstr ""
+
+#: unit2.com88
+msgctxt "unit2.com88"
+msgid "New name : "
+msgstr ""
+
+#: unit2.com89
+msgctxt "unit2.com89"
+msgid ""
+"1<>This table is an index of PDB file any changes can make file unable to\n"
+"open in ecternal programs. Are you sure to include the connect table?\n"
+msgstr ""
+
+#: unit2.com9
+msgctxt "unit2.com9"
+msgid "Error : Divide by zero"
+msgstr ""
+
+#: unit2.com90
+msgctxt "unit2.com90"
+msgid "Calculation finished :"
+msgstr ""
+
+#: unit2.com91
+msgctxt "unit2.com91"
+msgid "Calculation started :"
+msgstr ""
+
+#: unit2.com92
+msgctxt "unit2.com92"
+msgid "2<>Processing stop, incorrect file syntax!"
+msgstr ""
+
+#: unit2.com93
+msgctxt "unit2.com93"
+msgid "2<>None model was included in the project table"
+msgstr ""
+
+#: unit2.com94
+msgctxt "unit2.com94"
+msgid "Please insert symbol which will be used to separate CSV file:  "
+msgstr ""
+
+#: unit2.com95
+msgctxt "unit2.com95"
+msgid "Only one grid can be saved in this format, continue with current grid?"
+msgstr ""
+
+#: unit2.com96
+msgctxt "unit2.com96"
+msgid "Write atom name : "
+msgstr ""
+
+#: unit2.com97
+msgctxt "unit2.com97"
+msgid "--- Select a molecule ---"
+msgstr ""
+
+#: unit2.com98
+msgctxt "unit2.com98"
+msgid "2<>More than 3 atom selected in one of the group!"
+msgstr ""
+
+#: unit2.com99
+msgctxt "unit2.com99"
+msgid "Please insert a phrase to search in current table : "
+msgstr ""
+
+#: unit2.file_grids_template
+msgctxt "unit2.file_grids_template"
+msgid "grids_template.index"
+msgstr ""
+
+#: unit2.file_operator
+msgctxt "unit2.file_operator"
+msgid "operator_name.otp"
+msgstr ""
+
+#: unit2.glut_url
+msgctxt "unit2.glut_url"
+msgid "http://http://user.xmission.com/~nate/glut.html"
+msgstr ""
+
+#: unit2.help_url
+msgctxt "unit2.help_url"
+msgid "http://www.grow4.eu"
+msgstr ""
+
+#: unit2.indexfilter_1
+msgctxt "unit2.indexfilter_1"
+msgid "Grow_4 project file (*.proj4g)|*.proj4g"
+msgstr ""
+
+#: unit2.indexfilter_10
+msgctxt "unit2.indexfilter_10"
+msgid "FASTA text file (*.fasta)|*.fasta"
+msgstr ""
+
+#: unit2.indexfilter_11
+msgctxt "unit2.indexfilter_11"
+msgid "Macro text file (*.mcr)|*.mcr"
+msgstr ""
+
+#: unit2.indexfilter_2
+msgctxt "unit2.indexfilter_2"
+msgid "PDB file (*.pdb ; *.ent)|*.pdb;*.ent"
+msgstr ""
+
+#: unit2.indexfilter_3
+msgctxt "unit2.indexfilter_3"
+msgid "XML (*.xml)|*.xml"
+msgstr ""
+
+#: unit2.indexfilter_4
+msgctxt "unit2.indexfilter_4"
+msgid "CSV (*.csv)|*.csv"
+msgstr ""
+
+#: unit2.indexfilter_5
+msgctxt "unit2.indexfilter_5"
+msgid "MOL2 (*.mol2)|*.mol2"
+msgstr ""
+
+#: unit2.indexfilter_6
+msgctxt "unit2.indexfilter_6"
+msgid "xMOL (*.xyz)|*.xyz"
+msgstr ""
+
+#: unit2.indexfilter_7
+msgctxt "unit2.indexfilter_7"
+msgid "HTML (*.html)|*.html"
+msgstr ""
+
+#: unit2.indexfilter_8
+msgctxt "unit2.indexfilter_8"
+msgid "Text file (*.txt)|*.txt"
+msgstr ""
+
+#: unit2.indexfilter_9
+msgctxt "unit2.indexfilter_9"
+msgid "Semi-colon separated text file (*.ssv)|*.ssv"
+msgstr ""
+
+#: unit2.indexfilter_any
+msgctxt "unit2.indexfilter_any"
+msgid "Any file (*.*)|*.*"
+msgstr ""
+
+#: unit2.linia
+msgctxt "unit2.linia"
+msgid "____________________________________________________________________"
+msgstr ""
+
+#: unit2.linia2
+msgctxt "unit2.linia2"
+msgid "--------------------------------------------------------------------"
+msgstr ""
+
+#: unit2.loading
+msgctxt "unit2.loading"
+msgid "Loading : "
+msgstr ""
+
+#: unit2.pdb_id_url
+msgctxt "unit2.pdb_id_url"
+msgid "http://www.pdb.org/pdb/files/"
+msgstr ""
+
+#: unit2.pleasewait
+msgctxt "unit2.pleasewait"
+msgid "Please wait,..."
+msgstr ""
+
+#: unit2.processing
+msgctxt "unit2.processing"
+msgid "Operation in progress, please wait ..."
+msgstr ""
+
+#: unit2.roz_grid_template
+msgctxt "unit2.roz_grid_template"
+msgid ".gtp"
+msgstr ""
+
+#: unit2.roz_ind
+msgctxt "unit2.roz_ind"
+msgid ".index"
+msgstr ""
+
+#: unit2.roz_project
+msgctxt "unit2.roz_project"
+msgid ".proj4g"
+msgstr ""
+
+#: unit2.roz_sym
+msgctxt "unit2.roz_sym"
+msgid ".sym"
+msgstr ""
+
+#: unit2.type_analisis
+msgctxt "unit2.type_analisis"
+msgid "ANA"
+msgstr ""
+
+#: unit2.type_atom
+msgctxt "unit2.type_atom"
+msgid "ATOM"
+msgstr ""
+
+#: unit2.type_bond
+msgctxt "unit2.type_bond"
+msgid "BOND"
+msgstr ""
+
+#: unit2.type_dna
+msgctxt "unit2.type_dna"
+msgid "DNA"
+msgstr ""
+
+#: unit2.type_heteroatom
+msgctxt "unit2.type_heteroatom"
+msgid "HETATM"
+msgstr ""
+
+#: unit2.type_ligand
+msgctxt "unit2.type_ligand"
+msgid "LIG"
+msgstr ""
+
+#: unit2.type_plane
+msgctxt "unit2.type_plane"
+msgid "PLA"
+msgstr ""
+
+#: unit2.type_protein
+msgctxt "unit2.type_protein"
+msgid "PRO"
+msgstr ""
+
+#: unit2.type_rna
+msgctxt "unit2.type_rna"
+msgid "RNA"
+msgstr ""
+
+#: unit2.type_water
+msgctxt "unit2.type_water"
+msgid "HOH"
+msgstr ""
+

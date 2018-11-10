@@ -1,0 +1,5 @@
+{"version":1,"strings":[
+{"hash":2305613,"name":"tform5.caption","sourcebytes":[65,98,111,117,116,32,112,114,111,103,114,97,109],"value":"About program"},
+{"hash":217822242,"name":"tform5.statictext1.caption","sourcebytes":[118,101,114,115,105,111,110,32,49,46,49,46,50],"value":"version 1.1.2"},
+{"hash":1755326,"name":"tform5.statictext2.caption","sourcebytes":[76,111,97,100,105,110,103,44,46,46,46],"value":"Loading,..."}
+]}

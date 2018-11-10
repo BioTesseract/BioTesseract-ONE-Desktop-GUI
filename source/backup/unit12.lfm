@@ -1,0 +1,46 @@
+object Settings: TSettings
+  Left = 491
+  Height = 752
+  Top = 186
+  Width = 1176
+  Caption = 'Settings'
+  Color = cl3DLight
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  ShowInTaskBar = stAlways
+  LCLVersion = '1.8.4.0'
+  object TTabSheet
+  end
+  object ColorDialog1: TColorDialog
+    Color = clBlack
+    CustomColors.Strings = (
+      'ColorA=000000'
+      'ColorB=000080'
+      'ColorC=008000'
+      'ColorD=008080'
+      'ColorE=800000'
+      'ColorF=800080'
+      'ColorG=808000'
+      'ColorH=808080'
+      'ColorI=C0C0C0'
+      'ColorJ=0000FF'
+      'ColorK=00FF00'
+      'ColorL=00FFFF'
+      'ColorM=FF0000'
+      'ColorN=FF00FF'
+      'ColorO=FFFF00'
+      'ColorP=FFFFFF'
+      'ColorQ=C0DCC0'
+      'ColorR=F0CAA6'
+      'ColorS=F0FBFF'
+      'ColorT=A4A0A0'
+    )
+    left = 1072
+    top = 64
+  end
+  object OpenDialog1: TOpenDialog
+    Filter = '*.exe|*.exe'
+    left = 980
+    top = 50
+  end
+end

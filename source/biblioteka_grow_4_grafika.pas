@@ -1,6 +1,6 @@
 (*
 Program name: BioTesseract™ ONE Desktop
-Version: 1.1.1 Build: 206
+Version: 1.4.900.670 pre-release Build: 670
 Authorship: The project was initially invented and developed by Dr Rafal Urniaz, actually it is developed by BioTesseract™ ONE community.
 Description: This file is a part of the BioTesseract™ ONE Desktop project, for details please visit http://www.biotesseract.com
 *)
@@ -579,7 +579,7 @@ Function  Refresh3Ddraw():boolean; // odswież listy rysownaia
     except
       Start3dDraw:=false;
     end;
-
+  Result:= True;
   end;
 
 Function  Draw3dAxes():boolean;

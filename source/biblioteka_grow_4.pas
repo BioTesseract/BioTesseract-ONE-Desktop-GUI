@@ -1,6 +1,6 @@
 (*
 Program name: BioTesseract™ ONE Desktop
-Version: 1.1.1 Build: 206
+Version: 1.4.900.670 pre-release Build: 670
 Authorship: The project was initially invented and developed by Dr Rafal Urniaz, actually it is developed by BioTesseract™ ONE community.
 Description: This file is a part of the BioTesseract™ ONE Desktop project, for details please visit http://www.biotesseract.com
 *)
@@ -1720,7 +1720,7 @@ If (InitialDir = '') then
 If DirDialog.Execute then
  begin
    Try
-     Result:= SysToUTF8(DirDialog.FileName);
+     Result:= DirDialog.FileName;
    except
      showmessage(Copy(com7,3,length(com7))+'[UniversalDirectoryFunction]');
    end;
@@ -1752,7 +1752,7 @@ begin
  If OpenDialog.Execute then
   begin
     Try
-      Result:= SysToUTF8(Opendialog.FileName);
+      Result:= Opendialog.FileName;
     except
       showmessage(Copy(com7,3,length(com7))+'[UniversalOpenFunction]');
     end;
@@ -1899,7 +1899,7 @@ begin
    if plik <> nil then    // jak plik to zapisz plik textowy jak nie ma to zwroc directoy
     begin
        Try
-        Plik.SaveToFile(UTF8tosys(SaveDialog.FileName));
+        Plik.SaveToFile(SaveDialog.FileName);
        except
          showmessage(Copy(com7,3,length(com7))+'[UniversalSaveFunction]');
        end;
@@ -2131,7 +2131,7 @@ begin
 
   if  dialog.Execute then
    begin
-     plik.LoadFromFile(UTF8decode(dialog.FileName));
+     plik.LoadFromFile(dialog.FileName);
 
      if plik.Count = 1 then
       begin
@@ -4973,7 +4973,7 @@ begin
      if Mainform.Savedialog1.FileName > '' then
       begin
        If Copy(Mainform.Savedialog1.FileName,Pos('.',Mainform.Savedialog1.FileName),Length(Mainform.Savedialog1.FileName)-Pos('.',Mainform.Savedialog1.FileName)+1) <> '.xml' Then Mainform.Savedialog1.FileName := Mainform.Savedialog1.FileName + '.xml';
-       try TstringGrid(activegrid).SaveToFile(UTF8decode(Mainform.Savedialog1.FileName));
+       try TstringGrid(activegrid).SaveToFile(Mainform.Savedialog1.FileName);
        except
          Console.AddCommunicate(com7,true);
        end;
@@ -5123,8 +5123,8 @@ If  project_table_form.StringGrid1.RowCount -1 > 0 then
   If Copy(MainForm.Savedialog1.FileName,Pos('.',MainForm.Savedialog1.FileName),Length(MainForm.Savedialog1.FileName)-Pos('.',MainForm.Savedialog1.FileName)+1) <> copy(roz_project,1,length(roz_project)) Then MainForm.Savedialog1.FileName := MainForm.Savedialog1.FileName + roz_project;
 
   try
-    DeleteFile(UTF8ToSyS(MainForm.savedialog1.FileName));
-    file_1.SaveToFile(UTF8ToSyS(MainForm.savedialog1.FileName));
+    DeleteFile((MainForm.savedialog1.FileName));
+    file_1.SaveToFile((MainForm.savedialog1.FileName));
   except
     Console.AddCommunicate(com7,true);
   end;
@@ -5180,7 +5180,7 @@ If (ShowComunicate = false) or (res = mrYes) then
          tempmemo:= tempmemo + Form8.Memo2.lines[x]+';';
        end;
   plik.Add('[info]'+tempmemo);
-  plik.Add('[dir]'+UTF8tosys(MainForm.Statusbar.SimpleText));
+  plik.Add('[dir]'+(MainForm.Statusbar.SimpleText));
 
 // zapis tabeli projektu
   plik.Add('[project_table]');
@@ -5224,7 +5224,7 @@ end;
    plik.Add('[end]');
 
   try
-    plik.SaveToFile(UTF8tosys(MainForm.Statusbar.SimpleText));
+    plik.SaveToFile((MainForm.Statusbar.SimpleText));
   except
     Console.AddCommunicate(com7,true);
   end;
@@ -5298,7 +5298,7 @@ begin
      try
        begin
         plik:= TStringList.Create;
-        plik.LoadFromFile(UTF8tosys(MainForm.Opendialog1.FileName));
+        plik.LoadFromFile((MainForm.Opendialog1.FileName));
        end;
      except
        Console.AddCommunicate(com12+' '+Com1+' [OpenDialog 1]',true);
@@ -6225,7 +6225,7 @@ if project_table_form.StringGrid1.RowCount > 1 then
       end;
    end;
 
-  //Save_as_PDB(modele,UTF8ToSys(ExtractFilePath(Application.ExeName))+'modules\raswin\visio.pdb',false);
+  //Save_as_PDB(modele,(ExtractFilePath(Application.ExeName))+'modules\raswin\visio.pdb',false);
 
   Save_as_PDB(modele,file_directory,temp);
 
@@ -6233,10 +6233,10 @@ if project_table_form.StringGrid1.RowCount > 1 then
 
   AProcess := TProcess.Create(nil);
 
-  //AProcess.CommandLine :='modules\raswin\RW32B2A.EXE'   //UTF8ToSys(ExtractFilePath(Application.ExeName))+'\
+  //AProcess.CommandLine :='modules\raswin\RW32B2A.EXE'   //(ExtractFilePath(Application.ExeName))+'\
   //                     +' modules\raswin\visio.pdb';
 
-  AProcess.CommandLine := UTF8ToSys(cm_prog)+' '+file_directory;
+  AProcess.CommandLine := (cm_prog)+' '+file_directory;
 
   AProcess.Options := AProcess.Options ;
 

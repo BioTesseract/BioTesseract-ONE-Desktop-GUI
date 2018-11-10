@@ -1,53 +1,54 @@
 object IVM: TIVM
-  Left = 379
-  Height = 793
-  Top = 149
-  Width = 1501
+  Left = 54
+  Height = 991
+  Top = 28
+  Width = 1876
   Align = alClient
   BorderStyle = bsNone
   Caption = 'InterView_MV (c)'
-  ClientHeight = 793
-  ClientWidth = 1501
+  ClientHeight = 0
+  ClientWidth = 0
   DefaultMonitor = dmDesktop
+  DesignTimePPI = 120
   FormStyle = fsStayOnTop
   OnCreate = FormCreate
   OnKeyUp = FormKeyUp
-  LCLVersion = '1.6.0.4'
+  LCLVersion = '1.8.4.0'
   Visible = True
   object ToolBar2: TToolBar
-    Left = 1415
-    Height = 752
-    Top = 41
-    Width = 41
+    Left = -51
+    Height = 0
+    Top = 0
+    Width = 51
     Align = alRight
-    ButtonHeight = 40
-    ButtonWidth = 40
+    ButtonHeight = 50
+    ButtonWidth = 50
     Caption = 'ToolBar2'
     EdgeBorders = [ebLeft, ebTop, ebRight, ebBottom]
     Images = ImageList1
+    ParentFont = False
     TabOrder = 0
     Transparent = True
-    Visible = False
     OnClick = ToolBar2Click
     object ToolButton19: TToolButton
-      Left = 3
-      Top = 82
+      Left = 103
+      Top = 2
       Caption = 'ToolButton19'
       ImageIndex = 21
       OnClick = ToolButton19Click
       Wrap = True
     end
     object ToolButton20: TToolButton
-      Left = 3
-      Top = 122
+      Left = 153
+      Top = 2
       Caption = 'ToolButton20'
       ImageIndex = 22
       OnClick = ToolButton20Click
       Wrap = True
     end
     object ToolButton22: TToolButton
-      Left = 3
-      Top = 42
+      Left = 53
+      Top = 2
       Caption = 'ToolButton22'
       ImageIndex = 31
       OnClick = ToolButton22Click
@@ -55,15 +56,15 @@ object IVM: TIVM
       Wrap = True
     end
     object ToolButton23: TToolButton
-      Left = 3
-      Top = 162
+      Left = 203
+      Top = 2
       Caption = 'ToolButton23'
       ImageIndex = 25
       Wrap = True
     end
     object ToolButton24: TToolButton
-      Left = 3
-      Top = 202
+      Left = 253
+      Top = 2
       Caption = 'ToolButton24'
       ImageIndex = 26
       Wrap = True
@@ -79,13 +80,13 @@ object IVM: TIVM
     end
   end
   object ToolBar1: TToolBar
-    Left = 2
-    Height = 41
+    Left = 1
+    Height = 51
     Top = 0
-    Width = 1499
+    Width = 0
     BorderSpacing.Left = 2
-    ButtonHeight = 40
-    ButtonWidth = 40
+    ButtonHeight = 50
+    ButtonWidth = 50
     ChildSizing.LeftRightSpacing = 8
     ChildSizing.TopBottomSpacing = 9
     ChildSizing.HorizontalSpacing = 7
@@ -95,108 +96,109 @@ object IVM: TIVM
     Images = ImageList1
     List = True
     ParentColor = False
+    ParentFont = False
     ParentShowHint = False
     ShowHint = True
     TabOrder = 1
     Transparent = True
     OnClick = ToolBar1Click
     object ToolButton1: TToolButton
-      Left = 201
+      Left = 1
       Hint = 'Center'
-      Top = 0
+      Top = 250
       Caption = 'Center'
       ImageIndex = 0
       OnClick = ToolButton1Click
     end
     object ToolButton2: TToolButton
-      Left = 521
-      Top = 0
+      Left = 1
+      Top = 650
       Caption = 'Refresh'
       ImageIndex = 1
       OnClick = ToolButton2Click
     end
     object ToolButton4: TToolButton
-      Left = 161
-      Top = 0
+      Left = 1
+      Top = 200
       Caption = 'Full screan'
       ImageIndex = 3
       OnClick = ToolButton4Click
     end
     object ToolButton5: TToolButton
-      Left = 121
-      Top = 0
+      Left = 1
+      Top = 150
       Caption = 'capture image'
       ImageIndex = 2
       OnClick = ToolButton5Click
     end
     object ToolButton6: TToolButton
-      Left = 561
-      Top = 0
+      Left = 1
+      Top = 700
       Caption = 'Stop'
       ImageIndex = 4
       OnClick = ToolButton6Click
     end
     object ToolButton10: TToolButton
-      Left = 241
-      Top = 0
+      Left = 1
+      Top = 300
       Caption = 'Rotation'
       ImageIndex = 10
       OnClick = ToolButton10Click
     end
     object ToolButton11: TToolButton
-      Left = 281
-      Top = 0
+      Left = 1
+      Top = 350
       Caption = 'ToolButton11'
       ImageIndex = 12
       OnClick = ToolButton11Click
     end
     object ToolButton12: TToolButton
-      Left = 321
-      Top = 0
+      Left = 1
+      Top = 400
       Caption = 'ToolButton12'
       ImageIndex = 13
       OnClick = ToolButton12Click
     end
     object ToolButton13: TToolButton
-      Left = 361
-      Top = 0
+      Left = 1
+      Top = 450
       Caption = 'ToolButton13'
       DropdownMenu = PopupMenu1
       ImageIndex = 14
       PopupMenu = PopupMenu1
     end
     object ToolButton14: TToolButton
-      Left = 401
-      Top = 0
+      Left = 1
+      Top = 500
       Caption = 'ToolButton14'
       ImageIndex = 16
       OnClick = ToolButton14Click
     end
     object ToolButton15: TToolButton
-      Left = 441
-      Top = 0
+      Left = 1
+      Top = 550
       Caption = 'ToolButton15'
       ImageIndex = 17
       OnClick = ToolButton15Click
     end
     object ToolButton18: TToolButton
-      Left = 481
-      Top = 0
+      Left = 1
+      Top = 600
       Caption = 'ToolButton18'
       ImageIndex = 20
       OnClick = ToolButton18Click
       Wrap = True
     end
     object ToolButton25: TToolButton
-      Left = 41
-      Top = 0
+      Left = 1
+      Top = 50
       Caption = 'ToolButton25'
       ImageIndex = 27
       OnClick = ToolButton25Click
     end
     object ToolButton26: TToolButton
-      Left = 81
-      Top = 0
+      Left = 1
+      Top = 100
       Caption = 'ToolButton26'
       ImageIndex = 28
       OnClick = ToolButton26Click
@@ -209,26 +211,26 @@ object IVM: TIVM
       OnClick = ToolButton27Click
     end
     object ToolButton29: TToolButton
-      Left = 601
-      Top = 0
+      Left = 1
+      Top = 750
       Caption = 'ToolButton29'
       ImageIndex = 41
       OnClick = ToolButton29Click
     end
   end
   object ToolBar3: TToolBar
-    Left = 1333
-    Height = 752
-    Top = 41
-    Width = 41
+    Left = -51
+    Height = 0
+    Top = 0
+    Width = 51
     Align = alRight
-    ButtonHeight = 40
-    ButtonWidth = 40
+    ButtonHeight = 50
+    ButtonWidth = 50
     Caption = 'ToolBar3'
     EdgeBorders = [ebLeft, ebTop, ebRight, ebBottom]
     Images = ImageList1
+    ParentFont = False
     TabOrder = 2
-    Visible = False
     object ToolButton16: TToolButton
       Left = 3
       Top = 2
@@ -238,8 +240,8 @@ object IVM: TIVM
       Wrap = True
     end
     object ToolButton17: TToolButton
-      Left = 3
-      Top = 42
+      Left = 53
+      Top = 2
       Caption = 'ToolButton17'
       ImageIndex = 19
       OnClick = ToolButton17Click
@@ -247,35 +249,35 @@ object IVM: TIVM
     end
   end
   object ToolBar4: TToolBar
-    Left = 1374
-    Height = 752
-    Top = 41
-    Width = 41
+    Left = -51
+    Height = 0
+    Top = 0
+    Width = 51
     Align = alRight
-    ButtonHeight = 40
-    ButtonWidth = 40
+    ButtonHeight = 50
+    ButtonWidth = 50
     Caption = 'ToolBar4'
     EdgeBorders = [ebLeft, ebTop, ebRight, ebBottom]
     Images = ImageList1
+    ParentFont = False
     TabOrder = 3
-    Visible = False
     object ToolButton3: TToolButton
-      Left = 3
-      Top = 162
+      Left = 203
+      Top = 2
       Caption = 'Show axes'
       ImageIndex = 6
       OnClick = ToolButton3Click
     end
     object ToolButton7: TToolButton
-      Left = 3
-      Top = 82
+      Left = 103
+      Top = 2
       Caption = 'ToolButton7'
       ImageIndex = 7
       OnClick = ToolButton7Click
     end
     object ToolButton9: TToolButton
-      Left = 3
-      Top = 42
+      Left = 53
+      Top = 2
       Caption = 'ToolButton9'
       ImageIndex = 11
       OnClick = ToolButton9Click
@@ -288,27 +290,27 @@ object IVM: TIVM
       OnClick = ToolButton8Click
     end
     object ToolButton28: TToolButton
-      Left = 3
-      Top = 122
+      Left = 153
+      Top = 2
       Caption = 'ToolButton28'
       ImageIndex = 40
       OnClick = ToolButton28Click
     end
   end
   object ToolBar5: TToolBar
-    Left = 1456
-    Height = 752
-    Top = 41
-    Width = 45
+    Left = -56
+    Height = 0
+    Top = 0
+    Width = 56
     Align = alRight
-    ButtonHeight = 40
-    ButtonWidth = 40
+    ButtonHeight = 50
+    ButtonWidth = 50
     Caption = 'ToolBar5'
     EdgeBorders = [ebLeft, ebTop, ebRight, ebBottom]
     Images = ImageList1
+    ParentFont = False
     TabOrder = 4
     Transparent = True
-    Visible = False
     OnClick = ToolBar2Click
     object ToolButton42: TToolButton
       Left = 3
@@ -318,50 +320,50 @@ object IVM: TIVM
       OnClick = ToolButton42Click
     end
     object ToolButton43: TToolButton
-      Left = 3
-      Top = 42
+      Left = 53
+      Top = 2
       Caption = 'ToolButton29'
       ImageIndex = 33
       OnClick = ToolButton43Click
     end
     object ToolButton44: TToolButton
-      Left = 3
-      Top = 82
+      Left = 103
+      Top = 2
       Caption = 'ToolButton30'
       ImageIndex = 34
       OnClick = ToolButton44Click
     end
     object ToolButton45: TToolButton
-      Left = 3
-      Top = 122
+      Left = 153
+      Top = 2
       Caption = 'ToolButton31'
       ImageIndex = 35
       OnClick = ToolButton45Click
     end
     object ToolButton46: TToolButton
-      Left = 3
-      Top = 162
+      Left = 203
+      Top = 2
       Caption = 'ToolButton32'
       ImageIndex = 36
       OnClick = ToolButton46Click
     end
     object ToolButton47: TToolButton
-      Left = 3
-      Top = 202
+      Left = 253
+      Top = 2
       Caption = 'ToolButton33'
       ImageIndex = 37
       OnClick = ToolButton47Click
     end
     object ToolButton48: TToolButton
-      Left = 3
-      Top = 242
+      Left = 303
+      Top = 2
       Caption = 'ToolButton34'
       ImageIndex = 38
       OnClick = ToolButton48Click
     end
     object ToolButton49: TToolButton
-      Left = 3
-      Top = 282
+      Left = 353
+      Top = 2
       Caption = 'ToolButton35'
       ImageIndex = 39
       OnClick = ToolButton49Click
@@ -369,73 +371,76 @@ object IVM: TIVM
   end
   object PairSplitter2: TPairSplitter
     Left = 0
-    Height = 752
-    Top = 41
-    Width = 1333
+    Height = 0
+    Top = 0
+    Width = 0
     Align = alClient
-    Position = 450
+    Position = 562
     object PairSplitterSide3: TPairSplitterSide
       Cursor = crArrow
       Left = 0
-      Height = 752
+      Height = 0
       Top = 0
-      Width = 450
-      ClientWidth = 450
-      ClientHeight = 752
+      Width = 562
+      ClientWidth = 562
+      ClientHeight = 0
       object Panel1: TPanel
         Left = 0
-        Height = 752
+        Height = 0
         Top = 0
-        Width = 450
+        Width = 562
         Align = alClient
         BevelOuter = bvNone
         Caption = 'Panel1'
-        ClientHeight = 752
-        ClientWidth = 450
+        ClientHeight = 0
+        ClientWidth = 562
+        ParentFont = False
         TabOrder = 0
         object Label1: TLabel
           Left = 0
           Height = 20
-          Top = 732
-          Width = 450
+          Top = -20
+          Width = 562
           Align = alBottom
           Caption = '.'
           Layout = tlCenter
           ParentColor = False
+          ParentFont = False
           WordWrap = True
         end
         object PairSplitter1: TPairSplitter
           Cursor = crVSplit
           Left = 0
-          Height = 732
+          Height = 0
           Top = 0
-          Width = 450
+          Width = 562
           Align = alClient
-          Position = 300
+          Position = 375
           SplitterType = pstVertical
           object PairSplitterSide1: TPairSplitterSide
             Cursor = crArrow
             Left = 0
-            Height = 300
+            Height = 375
             Top = 0
-            Width = 450
-            ClientWidth = 450
-            ClientHeight = 300
+            Width = 562
+            ClientWidth = 562
+            ClientHeight = 375
             object StaticText1: TStaticText
               Left = 0
-              Height = 20
+              Height = 25
               Top = 0
-              Width = 450
+              Width = 562
               Align = alTop
               Alignment = taCenter
               Caption = 'Objects'
+              ParentFont = False
               TabOrder = 0
             end
             object ObjetsList: TStringGrid
               Left = 0
-              Height = 280
-              Top = 20
-              Width = 448
+              Height = 350
+              Top = 25
+              Width = 560
               Align = alClient
               Anchors = [akTop, akLeft, akRight]
               AutoFillColumns = True
@@ -443,41 +448,55 @@ object IVM: TIVM
               ColCount = 7
               Columns = <              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   Title.Alignment = taCenter
                   Title.Caption = 'ID'
-                  Width = 100
+                  Width = 126
                 end              
                 item
                   ButtonStyle = cbsCheckboxColumn
+                  MinSize = 12
+                  MaxSize = 250
                   SizePriority = 0
                   Title.Alignment = taCenter
                   Title.Caption = 'Inc.'
-                  Width = 82
+                  Width = 102
                 end              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   SizePriority = 0
                   Title.Alignment = taCenter
                   Title.Caption = 'Name'
-                  Width = 82
+                  Width = 102
                 end              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   SizePriority = 0
                   Title.Alignment = taCenter
                   Title.Caption = 'Type'
-                  Width = 82
+                  Width = 102
                 end              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   Title.Alignment = taCenter
                   Title.Caption = 'Org_file_name'
-                  Width = 100
+                  Width = 126
                 end              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   Title.Alignment = taCenter
                   Title.Caption = 'comment'
                   Width = 0
                   Visible = False
                 end              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   Title.Alignment = taCenter
                   Title.Caption = 'Vis_Type'
                   Width = 0
@@ -488,7 +507,7 @@ object IVM: TIVM
               Flat = True
               Font.CharSet = EASTEUROPE_CHARSET
               Font.Color = clBlack
-              Font.Height = -15
+              Font.Height = -19
               Font.Name = 'MS Sans Serif'
               Font.Pitch = fpVariable
               Font.Quality = fqDraft
@@ -506,11 +525,11 @@ object IVM: TIVM
               OnMouseDown = StringGrid1MouseDown
               OnMouseUp = ObjetsListMouseUp
               ColWidths = (
-                100
-                82
-                82
-                82
-                100
+                126
+                102
+                102
+                102
+                126
                 0
                 0
               )
@@ -519,16 +538,16 @@ object IVM: TIVM
           object PairSplitterSide2: TPairSplitterSide
             Cursor = crArrow
             Left = 0
-            Height = 427
-            Top = 305
-            Width = 450
-            ClientWidth = 450
-            ClientHeight = 427
+            Height = 0
+            Top = 0
+            Width = 562
+            ClientWidth = 562
+            ClientHeight = 0
             object StringGrid1: TStringGrid
               Left = 0
-              Height = 407
-              Top = 20
-              Width = 448
+              Height = 0
+              Top = 0
+              Width = 560
               Align = alClient
               Anchors = [akTop, akLeft, akRight]
               AutoFillColumns = True
@@ -536,21 +555,25 @@ object IVM: TIVM
               ColCount = 2
               Columns = <              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   Title.Alignment = taCenter
                   Title.Caption = 'Property'
-                  Width = 223
+                  Width = 279
                 end              
                 item
+                  MinSize = 12
+                  MaxSize = 250
                   Title.Alignment = taCenter
                   Title.Caption = 'Value'
-                  Width = 224
+                  Width = 280
                 end>
               FixedCols = 0
               FixedRows = 0
               Flat = True
               Font.CharSet = EASTEUROPE_CHARSET
               Font.Color = clBlack
-              Font.Height = -15
+              Font.Height = -19
               Font.Name = 'MS Sans Serif'
               Font.Pitch = fpVariable
               Font.Quality = fqDraft
@@ -566,18 +589,19 @@ object IVM: TIVM
               OnDblClick = StringGrid1DblClick
               OnMouseDown = StringGrid1MouseDown
               ColWidths = (
-                223
-                224
+                279
+                280
               )
             end
             object StaticText2: TStaticText
               Left = 0
-              Height = 20
+              Height = 25
               Top = 0
-              Width = 450
+              Width = 562
               Align = alTop
               Alignment = taCenter
               Caption = 'Properties'
+              ParentFont = False
               TabOrder = 1
             end
           end
@@ -586,17 +610,17 @@ object IVM: TIVM
     end
     object PairSplitterSide4: TPairSplitterSide
       Cursor = crArrow
-      Left = 455
-      Height = 752
+      Left = 0
+      Height = 0
       Top = 0
-      Width = 878
-      ClientWidth = 878
-      ClientHeight = 752
+      Width = 0
+      ClientWidth = 0
+      ClientHeight = 0
       object OpenGLControl1: TOpenGLControl
         Left = 0
-        Height = 752
+        Height = 0
         Top = 0
-        Width = 878
+        Width = 0
         Align = alClient
         OnClick = OpenGLControl1Click
         OnMouseDown = OpenGLControl1MouseDown
@@ -611,8 +635,8 @@ object IVM: TIVM
   object ImageList1: TImageList
     Height = 32
     Width = 32
-    left = 152
-    top = 120
+    left = 190
+    top = 150
     Bitmap = {
       4C692A000000200000002000000000000000000000000000000000000006008A
       46FF008A46FF0000000600000000000000000000000000000000000000000000
@@ -5997,13 +6021,13 @@ object IVM: TIVM
     Enabled = False
     Interval = 10
     OnTimer = IdleTimer1Timer
-    left = 944
-    top = 48
+    left = 1180
+    top = 60
   end
   object PopupMenu1: TPopupMenu
     Alignment = paRight
-    left = 152
-    top = 48
+    left = 190
+    top = 60
     object MenuItem3: TMenuItem
       Caption = 'Ligand'
       OnClick = MenuItem3Click
@@ -6185,8 +6209,8 @@ object IVM: TIVM
   object PopupMenu2: TPopupMenu
     AutoPopup = False
     OnPopup = PopupMenu2Popup
-    left = 536
-    top = 416
+    left = 670
+    top = 520
     object MenuItem46: TMenuItem
       Caption = 'Center and scale to the screen'
       Bitmap.Data = {

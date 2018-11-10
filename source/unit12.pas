@@ -1,6 +1,6 @@
 (*
 Program name: BioTesseract™ ONE Desktop
-Version: 1.1.1 Build: 206
+Version: 1.4.900.670 pre-release Build: 670
 Authorship: The project was initially invented and developed by Dr Rafal Urniaz, actually it is developed by BioTesseract™ ONE community.
 Description: This file is a part of the BioTesseract™ ONE Desktop project, for details please visit http://www.biotesseract.com
 *)
@@ -109,8 +109,8 @@ type
     TabSheet2: TTabSheet;
     TabSheet3: TTabSheet;
     TabSheet4: TTabSheet;
+    TabSheet5: TTabSheet;
     TabSheet6: TTabSheet;
-    TabSheet7: TTabSheet;
     procedure AtomsButtonClick(Sender: TObject; aCol, aRow: Integer);
     procedure CheckBox18Change(Sender: TObject);
     procedure ComboBox3Change(Sender: TObject);
@@ -227,7 +227,7 @@ if opendialog1.Execute then
  begin
     if Opendialog1.FileName > '' then
      begin
-       TLabeledEdit(sender).text:= SysToUTF8(Opendialog1.FileName);
+       TLabeledEdit(sender).text:= Opendialog1.FileName;
      end;
  end;
 end;

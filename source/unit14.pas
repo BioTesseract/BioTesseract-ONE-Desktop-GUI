@@ -1,6 +1,6 @@
 (*
 Program name: BioTesseract™ ONE Desktop
-Version: 1.1.1 Build: 206
+Version: 1.4.900.670 pre-release Build: 670
 Authorship: The project was initially invented and developed by Dr Rafal Urniaz, actually it is developed by BioTesseract™ ONE community.
 Description: This file is a part of the BioTesseract™ ONE Desktop project, for details please visit http://www.biotesseract.com
 *)
@@ -188,7 +188,7 @@ begin
  // Loading project if selected
  if ParamStr(1) > '' then
    begin
-   if FileExistsUTF8(UTF8encode(ParamStr(1)))then
+   if FileExists(UTF8encode(ParamStr(1)))then
      begin
        OpenProject(True,UTF8encode(ParamStr(1)));
      end else begin Console.AddCommunicate(UTF8encode(ParamStr(1))+#13+com7 +#13'[Parameters ParamStr(1)]',true); end;
