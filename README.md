@@ -1,5 +1,7 @@
 # About BioTesseract™  
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1a9f16f5e14c4d049a1340db9760e862)](https://app.codacy.com/app/RafalUrniaz/ONE?utm_source=github.com&utm_medium=referral&utm_content=RafalUrniaz/ONE&utm_campaign=Badge_Grade_Dashboard)
+
 The **BioTesseract™** is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
 
 # BioTesseract™ ONE Desktop 
