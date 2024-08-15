@@ -1,20 +1,22 @@
-# About BioTesseract™  
+# BioTesseract™ ONE
 
-The **BioTesseract™** is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
+The **BioTesseract™ ONE** is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by **Dr Rafal Urniaz**. 
 
-# BioTesseract™ ONE Desktop 
-
-The **BioTesseract™ ONE** is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by **Dr Rafal Urniaz**. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
+The project has been dropped and the source has been made public. 
 
 # Main features
 * Small compounds, macromolecules and structure – ligand complexes visualization
 * User-friendly console for high-throughput screening and easy terminal access
 * Dedicated tools for data manipulation, files editing and conversion
 * Specific and unique methods for data visualization
+* and more...
 
 <p align="center"><a href="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png"><img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" width="48%"></a>  <a href="docs/1.png"><img src="docs/1.png" width="48%"></a>  <a href="docs/3.png"><img src="docs/3.png" width="48%"></a>  <a href="docs/4.png"><img src="docs/4.png" width="48%"></a>  <a href="docs/5.png"><img src="docs/5.png" width="48%"></a>  <a href="docs/6.png"><img src="docs/6.png" width="48%"></a>  <a href="docs/7.png"><img src="docs/7.png" width="48%"></a>  <a href="docs/8.png"><img src="docs/8.png" width="48%"></a>  <a href="docs/9.png"><img src="docs/9.png" width="48%"></a>  <a href="docs/10.png"><img src="docs/10.png" width="48%"></a>  <a href="docs/11.png"><img src="docs/11.png" width="48%"></a></a>  <a href="docs/13.png"><img src="docs/13.png" width="48%"></a></p>
 
 
+# About BioTesseract™  
+
+The **BioTesseract™** is an international academic initiative established as a response to still increasing demand for dedicated tools and scripts for computational biology and chemistry applications. It is free and open project supports data visualization, structural bioinformatics and next generation sequencing (NGS).
 
 # About repository
 
